@@ -1,13 +1,15 @@
 from yachalk import chalk
 import sys
+import os
+sys.path.append(os.path.abspath("."))
 import dotenv
 import json
 #import ollama.client as client 
 from openai import AzureOpenAI
-import os
-sys.path.append("..")
+
 dotenv.load_dotenv()
-import clean_data
+
+import helpers.clean_data as clean_data 
 
 
 
@@ -17,7 +19,6 @@ client=AzureOpenAI(
         azure_endpoint=os.getenv('AZURE_OpenAI_ENDPOINT'),
         api_version=os.getenv('AZURE_OpenAI_API_VERSION')
     )
-
 
 
 def extractConcepts(prompt:str, metadata={},model='gpt-4'):
@@ -35,6 +36,7 @@ def extractConcepts(prompt:str, metadata={},model='gpt-4'):
         "   }, \n"
         "{ }, \n"
         "]\n"
+       
     )
     client=AzureOpenAI(
         api_key=os.getenv('AZURE_OPENAI_API_KEY'),
@@ -48,11 +50,17 @@ def extractConcepts(prompt:str, metadata={},model='gpt-4'):
             {'role':'user',"content":prompt}
         ],
         temperature=0.5,
-        max_tokens=100,
+        max_tokens=250
     )
 
-    
-    return response
+    try:
+        result=json.loads(response)
+        result=[dict(item,**metadata) for item in result]
+        print(result)
+    except:
+        print("\n\nERROR ### Here is the buggy response: ", response, "\n\n")
+        result=None
+    return result
 
 
 
@@ -72,32 +80,43 @@ def extractConcepts(prompt:str, metadata={},model='gpt-4'):
 # """
 #data=clean_data.clean_text(data)
 #extractConcepts(data)
+def graphPrompt(input: str, metadata={}, model="gpt-4"):
+    if model == None:
+        model = "mistral-openorca:latest"
 
-def graphPrompt(input:str,metadata={},model='gpt-4'):
-    SYS_PROMPT=(
-      "You are a network graph maker who extracts terms and their relations from a given context. "
-        "You are provided with a context chunk (delimited by ```) Your task is to extract the ontology "
-        "of terms mentioned in the given context. These terms should represent the key concepts as per the context. \n"
-        "Thought 1: While traversing through each sentence, Think about the key terms mentioned in it.\n"
-            "\tTerms may include object, entity, location, organization, person, \n"
-            "\tcondition, acronym, documents, service, concept, etc.\n"
-            "\tTerms should be as atomistic as possible\n\n"
-        "Thought 2: Think about how these terms can have one on one relation with other terms.\n"
-            "\tTerms that are mentioned in the same sentence or the same paragraph are typically related to each other.\n"
-            "\tTerms can be related to many other terms\n\n"
-        "Thought 3: Find out the relation between each such related pair of terms. \n\n"
-        "Format your output as a list of json. Each element of the list contains a pair of terms"
-        "and the relation between them, like the follwing: \n"
-        "[\n"
-        "   {\n"
-        '       "node_1": "A concept from extracted ontology",\n'
-        '       "node_2": "A related concept from extracted ontology",\n'
-        '       "edge": "relationship between the two concepts, node_1 and node_2 in one or two sentences"\n'
-        "   }, {...}\n"
-        "]"  
-    )
+    # model_info = client.show(model_name=model)
+    # print( chalk.blue(model_info))
 
-    #USER_PROMPT=f'context:```{input}``` \n\n output: '
+    SYS_PROMPT = (
+    "You are a network graph maker who extracts terms and their relations from a given context. "
+    "You are provided with a context chunk (delimited by ```), and your task is to extract the ontology "
+    "of terms mentioned in the given context. These terms should represent the key concepts as per the context.\n"
+    
+    "Thought 1: While traversing through each sentence, think about the key terms mentioned in it.\n"
+    "\tTerms may include object, entity, location, organization, person, \n"
+    "\tcondition, acronym, documents, service, concept, etc.\n"
+    "\tTerms should be as atomistic as possible.\n\n"
+    
+    "Thought 2: Consider how these terms can have one-on-one relations with other terms.\n"
+    "\tTerms mentioned in the same sentence or paragraph are typically related to each other.\n"
+    "\tTerms can be related to many other terms.\n\n"
+    
+    "Thought 3: Identify the relation between each related pair of terms. \n\n"
+    
+    "Format your output as a list of JSON objects, with a maximum of 5 term pairs. Each object should contain "
+    "a pair of terms and their relationship, like the following:\n"
+    "[\n"
+    "   {\n"
+    '       "node_1": "A concept from extracted ontology",\n'
+    '       "node_2": "A related concept from extracted ontology",\n'
+    '       "edge": "Relationship between node_1 and node_2 in one concise sentence"\n'
+    "   }\n"
+    "]"
+)
+
+
+
+    # USER_PROMPT = f"context: ```{input}``` \n\n output: "
     response=client.chat.completions.create(
         model=model,
         messages=[
@@ -105,11 +124,62 @@ def graphPrompt(input:str,metadata={},model='gpt-4'):
             {'role':'user',"content":input}
         ],
         temperature=0.5,
-        max_tokens=100,
+        max_tokens=250,
     )
+    try:
+        # print(response.choices[0].message.content)
+        result = json.loads(response.choices[0].message.content)
+        result = [dict(item, **metadata) for item in result]
+        
+    except:
+        print("\n\nERROR ### Here is the buggy response: ", response, "\n\n")
+        result = None
+    return result
 
-    # print(response)
-    return response
+# def graphPrompt(input:str,metadata={},model='gpt-4'):
+#     SYS_PROMPT=(
+#       "You are a network graph maker who extracts terms and their relations from a given context. "
+#         "You are provided with a context chunk (delimited by ```) Your task is to extract the ontology "
+#         "of terms mentioned in the given context. These terms should represent the key concepts as per the context. \n"
+#         "Thought 1: While traversing through each sentence, Think about the key terms mentioned in it.\n"
+#             "\tTerms may include object, entity, location, organization, person, \n"
+#             "\tcondition, acronym, documents, service, concept, etc.\n"
+#             "\tTerms should be as atomistic as possible\n\n"
+#         "Thought 2: Think about how these terms can have one on one relation with other terms.\n"
+#             "\tTerms that are mentioned in the same sentence or the same paragraph are typically related to each other.\n"
+#             "\tTerms can be related to many other terms\n\n"
+#         "Thought 3: Find out the relation between each such related pair of terms. \n\n"
+#         "Format your output as a list of json. Each element of the list contains a pair of terms"
+#         "and the relation between them, like the follwing: \n"
+#         "[\n"
+#         "   {\n"
+#         '       "node_1": "A concept from extracted ontology",\n'
+#         '       "node_2": "A related concept from extracted ontology",\n'
+#         '       "edge": "relationship between the two concepts, node_1 and node_2 in one or two sentences"\n'
+#         "   }, {...}\n"
+#         "]"  
+#     )
+
+#     #USER_PROMPT=f'context:```{input}``` \n\n output: '
+#     response=client.chat.completions.create(
+#         model=model,
+#         messages=[
+#             {'role':"system","content":SYS_PROMPT},
+#             {'role':'user',"content":input}
+#         ],
+#         temperature=0.5,
+#         max_tokens=100,
+#     )
+
+#     # print(response)
+#     try:
+#         result=json.loads(response)
+#         result=[dict(item,**metadata) for item in result]
+        
+#     except:
+#         print("\n\nERROR ### Here is the buggy response: ", response, "\n\n")
+#         result=None
+#     return result
 
 #for testing graphPrompt function
 
