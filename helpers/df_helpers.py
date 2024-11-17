@@ -4,7 +4,8 @@ import numpy as np
 from .prompts import extractConcepts
 from .prompts import graphPrompt
 import time
-from openai.error import RateLimitError
+import openai
+from openai import RateLimitError
 
 def documents2Dataframe(documents)->pd.DataFrame:
     rows=[]
@@ -55,7 +56,7 @@ def df2Graph(dataframe:pd.DataFrame,model=None)->list:
         axis=1
         )
     # invalid json results in Nan
-    except RateLimitError as e:
+    except RateLimitError:
         print(f"Rate limit exceeded. Retrying in {9} seconds...")
         time.sleep(9)
     results=results.dropna()

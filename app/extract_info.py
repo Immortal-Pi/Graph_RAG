@@ -22,12 +22,12 @@ import pandas as pd
 
 
 
-dotenv.load_dotenv()
-graph=Neo4jGraph(url=os.getenv('NEO4J_URI_ONLINE'),
-                 username=os.getenv('NEO4J_USERNAME_ONLINE'),
-                 password=os.getenv('NEO4J_PASSWORD_ONLINE')
-                #  database=os.getenv('NEO4J_DATABASE')
-)
+# dotenv.load_dotenv()
+# graph=Neo4jGraph(url=os.getenv('NEO4J_URI_ONLINE'),
+#                  username=os.getenv('NEO4J_USERNAME_ONLINE'),
+#                  password=os.getenv('NEO4J_PASSWORD_ONLINE')
+#                 #  database=os.getenv('NEO4J_DATABASE')
+# )
 
 llm=AzureChatOpenAI(
     azure_deployment=os.getenv('AZURE_OPENAI_DEPLOYMENT_MODEL'),
@@ -47,7 +47,7 @@ llm=AzureChatOpenAI(
 
 # """
 
-url_input=("https://en.wikipedia.org/wiki/Satoshi_Nakamoto")
+url_input=("https://en.wikipedia.org/wiki/Mark_Zuckerberg")
 loader=WebBaseLoader([url_input])
 data=loader.load().pop().page_content
 # clean the data
@@ -69,7 +69,7 @@ pages=splitter.split_documents(documents)
 
 ## creating dataframes of chunks 
 df=documents2Dataframe(pages)
-
+#print(df)
 
 
 regenerate=True
@@ -91,3 +91,6 @@ else:
 df1.replace('',np.nan,inplace=True)
 df1.dropna(subset=['node_1','node_2','edge'],inplace=True)
 df1['count']=1
+print(df1)
+
+##try to insert this into the graph db

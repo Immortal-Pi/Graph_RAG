@@ -1,61 +1,331 @@
 node_1|node_2|edge|chunk_id
-satoshi nakamoto|bitcoin|Satoshi Nakamoto is the presumed pseudonymous person or persons who developed bitcoin.|e2c3c8b6a11344c29ba0d779e5262151
-satoshi nakamoto|blockchain|Nakamoto devised the first blockchain database as part of the implementation of bitcoin.|e2c3c8b6a11344c29ba0d779e5262151
-satoshi nakamoto|bitcoin white paper|Nakamoto authored the bitcoin white paper.|e2c3c8b6a11344c29ba0d779e5262151
-satoshi nakamoto|cryptocurrency|Nakamoto described bitcoin as a digital cryptocurrency in the white paper.|e2c3c8b6a11344c29ba0d779e5262151
-satoshi nakamoto|bitcoin software|Nakamoto released version 0.1 of the bitcoin software on SourceForge.|e2c3c8b6a11344c29ba0d779e5262151
-bitcoin|electronic cash system|Bitcoin is an electronic cash system|096bf5845d6f4e24bea060700929a2eb
-nakamoto|bitcoin software|Nakamoto released version 0.1 of the bitcoin software|096bf5845d6f4e24bea060700929a2eb
-nakamoto|genesis block|Nakamoto defined the genesis block of bitcoin|096bf5845d6f4e24bea060700929a2eb
-genesis block|reward|The genesis block had a reward of 50 bitcoins|096bf5845d6f4e24bea060700929a2eb
-genesis block|text|The text 'The Times 03Jan2009 Chancellor on brink of second bailout for banks' was embedded in the coinbase transaction of the genesis block|096bf5845d6f4e24bea060700929a2eb
-swiss software engineer|nakamoto|Nakamoto is mentioned as a Swiss software engineer|f8b0c0be2bc14ec2aeb283168255f6dc
-nakamoto|bitcoin forum posts|Nakamoto's bitcoin forum posts are mentioned|f8b0c0be2bc14ec2aeb283168255f6dc
-nakamoto|timestamps|The timestamps of Nakamoto's forum posts are mentioned|f8b0c0be2bc14ec2aeb283168255f6dc
-nakamoto|sleep pattern|Nakamoto's unusual sleep pattern is mentioned|f8b0c0be2bc14ec2aeb283168255f6dc
-nakamoto|identity|Nakamoto's identity is mentioned|f8b0c0be2bc14ec2aeb283168255f6dc
-bitcoin inventor|nakamoto|Nakamoto is suggested to be the bitcoin inventor|10c8a7ce062f48b08045bc01e8317e0b
-nakamoto|systems engineer|Nakamoto worked as a systems engineer|10c8a7ce062f48b08045bc01e8317e0b
-nakamoto|classified defense projects|Nakamoto worked on classified defense projects|10c8a7ce062f48b08045bc01e8317e0b
-nakamoto|computer engineer|Nakamoto worked as a computer engineer|10c8a7ce062f48b08045bc01e8317e0b
-nakamoto|technology and financial information services companies|Nakamoto worked for technology and financial information services companies|10c8a7ce062f48b08045bc01e8317e0b
-craig steven wright|bitcoin|Craig Steven Wright either invented bitcoin or is a brilliant hoaxer who wants us to believe he did|309373f83d6e449cbb9ef0d00ad3c57d
-craig steven wright|twitter|Craig Steven Wright took down his Twitter account|309373f83d6e449cbb9ef0d00ad3c57d
-craig steven wright|satoshi nakamoto|Craig Steven Wright claimed that Satoshi Nakamoto was a joint pseudonym for him and Dave Kleiman|309373f83d6e449cbb9ef0d00ad3c57d
-craig steven wright|andresen|Craig Steven Wright's claim was supported by Andresen|309373f83d6e449cbb9ef0d00ad3c57d
-craig steven wright|jon matonis|Craig Steven Wright's claim was supported by former Bitcoin Foundation director Jon Matonis|309373f83d6e449cbb9ef0d00ad3c57d
-wrights claim|satoshi|Wrights claim to be Satoshi|0e943769f9954375ac961590d6f01d42
-forgeries|wrights claim|Forgeries as evidence against Wrights claim|0e943769f9954375ac961590d6f01d42
-dr wright|court|Dr Wright lied to the court|0e943769f9954375ac961590d6f01d42
-joshua davis|nakamotos identity|Joshua Davis narrowed down Nakamotos identity|0e943769f9954375ac961590d6f01d42
-vili lehdonvirta|nakamoto|Vili Lehdonvirta denied being Nakamoto|0e943769f9954375ac961590d6f01d42
-hbo documentary|cullen hoback|directed by|8de2b352940642b3b82b90b762a97f07
-hbo documentary|money electric the bitcoin mystery|titled|8de2b352940642b3b82b90b762a97f07
-money electric the bitcoin mystery|former bitcoin developer peter todd|named|8de2b352940642b3b82b90b762a97f07
-former bitcoin developer peter todd|satoshi nakamoto|allegedly being|8de2b352940642b3b82b90b762a97f07
-cullen hoback|hbo documentary|resorted to QAnon style coincidence-based conspiracy thinking|8de2b352940642b3b82b90b762a97f07
-nakamoto satoshi|bitcoin|Nakamoto Satoshi is the mysterious inventor of Bitcoin|b4b8aab01ff7440e947058ee539af9e4
-nakamoto satoshi|p2p ecash paper|Nakamoto Satoshi wrote the P2P ecash paper|b4b8aab01ff7440e947058ee539af9e4
-nakamoto satoshi|cryptocurrency|Nakamoto Satoshi is associated with the cryptocurrency Bitcoin|b4b8aab01ff7440e947058ee539af9e4
-nakamoto satoshi|cryptography mailing list|Nakamoto Satoshi made posts to the Cryptography mailing list|b4b8aab01ff7440e947058ee539af9e4
-nakamoto satoshi|bitcoin block explorer|Nakamoto Satoshi's Bitcoin block is archived on the Bitcoin Block Explorer|b4b8aab01ff7440e947058ee539af9e4
-nakamotos neighbor|bitcoins creator|Hunt For|a8bd755832284f2aaa23a28a5f30519e
-bitcoins creator|crypto genius|Paralyzed|a8bd755832284f2aaa23a28a5f30519e
-bitcoins creator|forbes|Archived|a8bd755832284f2aaa23a28a5f30519e
-bitcoins creator|conspiracy theory|Up Close Personal|a8bd755832284f2aaa23a28a5f30519e
-bitcoins creator|leah mcgrath goodman|The Face Behind|a8bd755832284f2aaa23a28a5f30519e
-nick szabo|the enigma|The most convincing evidence pointed to a reclusive American man of Hungarian descent named Nick Szabo|ebc74a7a858e40bb830957b7e7cb5052
-satoshi nakamoto|bitcoins creator|Bitcoins Creator Satoshi Nakamoto Is Probably This Unknown Australian Genius|ebc74a7a858e40bb830957b7e7cb5052
-nick szabo|bitcoin|This Australian Says He and His Dead Friend Invented Bitcoin|ebc74a7a858e40bb830957b7e7cb5052
-satoshi nakamoto|craig wright|New Clues Suggest Craig Wright Suspected Bitcoin Creator May Be a Hoaxer|ebc74a7a858e40bb830957b7e7cb5052
-craig wright|bitcoin creator|Craig Wright Claims Hes Bitcoin Creator Satoshi|ebc74a7a858e40bb830957b7e7cb5052
-impersonation|serious abuse of courts process|Judge concludes that impersonation is a serious abuse of courts process|aff4c77faa724ec8a957060adb7fa536
-impersonation|judge|Impersonation is related to the judge's conclusion|aff4c77faa724ec8a957060adb7fa536
-impersonation|law gazette|The conclusion about impersonation is reported in the Law Gazette|aff4c77faa724ec8a957060adb7fa536
-impersonation|courts process|Impersonation is a form of abuse in the courts process|aff4c77faa724ec8a957060adb7fa536
-impersonation|abuse|Impersonation is considered a form of abuse|aff4c77faa724ec8a957060adb7fa536
-developer|peter todd|Peter Todd is mentioned as a developer|c9af80d8852e49ff921ccf8837c0191c
-bitcoin creator|peter todd|Peter Todd is mentioned as the creator of Bitcoin|c9af80d8852e49ff921ccf8837c0191c
-bitcoin creator|satoshi nakamoto|Satoshi Nakamoto is mentioned as the creator of Bitcoin|c9af80d8852e49ff921ccf8837c0191c
-hbo documentary|peter todd|Peter Todd is mentioned in an HBO documentary|c9af80d8852e49ff921ccf8837c0191c
-bitcoin founder|satoshi nakamoto|Satoshi Nakamoto is mentioned as the founder of Bitcoin|c9af80d8852e49ff921ccf8837c0191c
+mark zuckerberg|wikipedia|Mark Zuckerberg is mentioned in the Wikipedia page.|c907bd16ca9e42c291e3f3c00f6b7670
+mark zuckerberg|facebook|Mark Zuckerberg is associated with Facebook.|c907bd16ca9e42c291e3f3c00f6b7670
+mark zuckerberg|chan zuckerberg initiative|Mark Zuckerberg is involved with the Chan Zuckerberg Initiative.|c907bd16ca9e42c291e3f3c00f6b7670
+mark zuckerberg|the social network|Mark Zuckerberg is depicted in the movie 'The Social Network'.|c907bd16ca9e42c291e3f3c00f6b7670
+mark zuckerberg|marriage and children|Mark Zuckerberg has a marriage and children.|c907bd16ca9e42c291e3f3c00f6b7670
+indonesia|interlingue|Indonesia is a country and Interlingue is a language|cec53fe0961c4e15a755e161665a78af
+indonesia|italiano|Indonesia is a country and Italiano is a language|cec53fe0961c4e15a755e161665a78af
+indonesia|kiswahili|Indonesia is a country and Kiswahili is a language|cec53fe0961c4e15a755e161665a78af
+indonesia|nederlands|Indonesia is a country and Nederlands is a language|cec53fe0961c4e15a755e161665a78af
+indonesia|polski|Indonesia is a country and Polski is a language|cec53fe0961c4e15a755e161665a78af
+zuckerberg|facebook|Zuckerberg cofounded the social media service Facebook|493c8c8c6aff491ba21f85c15beadac0
+zuckerberg|meta platforms|Zuckerberg is the chairman, CEO, and controlling shareholder of Meta Platforms|493c8c8c6aff491ba21f85c15beadac0
+zuckerberg|lawsuits|Zuckerberg has been the subject of multiple lawsuits regarding the creation and ownership of the website|493c8c8c6aff491ba21f85c15beadac0
+zuckerberg|user privacy|Zuckerberg has been involved in issues related to user privacy|493c8c8c6aff491ba21f85c15beadac0
+zuckerberg|harvard college|Zuckerberg briefly attended Harvard College|493c8c8c6aff491ba21f85c15beadac0
+zuckerberg|company|Zuckerberg took the company public in May 2012 with majority shares|382f5217ca5f4e14bd9ba70c0e58fc9e
+zuckerberg|selfmade billionaire|He became the world's youngest selfmade billionaire in 2008 at age 23|382f5217ca5f4e14bd9ba70c0e58fc9e
+zuckerberg|world's wealthiest individuals|He has consistently ranked among the world's wealthiest individuals|382f5217ca5f4e14bd9ba70c0e58fc9e
+zuckerberg|donations|He has also used his funds to organize multiple donations including the establishment of the Chan Zuckerberg Initiative|382f5217ca5f4e14bd9ba70c0e58fc9e
+zuckerberg|film|A film depicting Zuckerberg's early career legal troubles and initial success with Facebook, The Social Network, was released in 2010 and won multiple Academy Awards|382f5217ca5f4e14bd9ba70c0e58fc9e
+synapse media player|machine learning|The Synapse Media Player used machine learning to learn the user's listening habits|ea40eb5d7424441190f64d7cfc2a65a3
+synapse media player|slashdot|The Synapse Media Player was posted to Slashdot9|ea40eb5d7424441190f64d7cfc2a65a3
+synapse media player|pc magazine|The Synapse Media Player received a rating of 3 out of 5 from PC Magazine10|ea40eb5d7424441190f64d7cfc2a65a3
+zuckerberg|computer games|Mark Zuckerberg created computer games|ea40eb5d7424441190f64d7cfc2a65a3
+zuckerberg|mercy college|Mark Zuckerberg attended Mercy College|ea40eb5d7424441190f64d7cfc2a65a3
+site|weekend|The site went up over a weekend|305314eea9c04a84a9b380939c967e14
+college|network switches|the college shut it down because its popularity had overwhelmed one of Harvards network switches|305314eea9c04a84a9b380939c967e14
+students|internet|preventing students from accessing the Internet|305314eea9c04a84a9b380939c967e14
+students|photos|many students complained that their photos were being used without permission|305314eea9c04a84a9b380939c967e14
+zuckerberg|apologized|Zuckerberg apologized publicly|305314eea9c04a84a9b380939c967e14
+cameron winklevoss|tyler winklevoss|Harvard seniors|df0a25c9d52c41819408dc7aa97dfd0a
+cameron winklevoss|divya narendra|Harvard seniors|df0a25c9d52c41819408dc7aa97dfd0a
+tyler winklevoss|divya narendra|Harvard seniors|df0a25c9d52c41819408dc7aa97dfd0a
+zuckerberg|cameron winklevoss|Accused of intentionally misleading|df0a25c9d52c41819408dc7aa97dfd0a
+zuckerberg|tyler winklevoss|Accused of intentionally misleading|df0a25c9d52c41819408dc7aa97dfd0a
+office|zuckerberg|served as an office|bfb4717d7f574f98a1e03c7e24f56d08
+zuckerberg|peter thiel|met Peter Thiel|bfb4717d7f574f98a1e03c7e24f56d08
+zuckerberg|company|invested in his company|bfb4717d7f574f98a1e03c7e24f56d08
+zuckerberg|office|got their first office|bfb4717d7f574f98a1e03c7e24f56d08
+zuckerberg|harvard|planned to return to Harvard|bfb4717d7f574f98a1e03c7e24f56d08
+income|advertising|income from advertising|4fbe1ae7abcb428a947831ba8dd0e527
+growth|phenomenal|phenomenal growth|4fbe1ae7abcb428a947831ba8dd0e527
+page|ads|ads on pages|4fbe1ae7abcb428a947831ba8dd0e527
+search|ads|ads on search|4fbe1ae7abcb428a947831ba8dd0e527
+money|enough|making enough money|4fbe1ae7abcb428a947831ba8dd0e527
+zuckerberg|vanity fair 100 list|Zuckerberg ranked number 23 on the Vanity Fair 100 list in 2009|0d44668984f9444499866caa0d1435b3
+zuckerberg|new statesmans annual survey|In 2010 Zuckerberg was chosen as number 16 in New Statesmans annual survey of the worlds 50 most influential figures|0d44668984f9444499866caa0d1435b3
+zuckerberg|steve jobs|In a 2011 interview with PBS, Zuckerberg said that Jobs had advised him on how to create a management team at Facebook|0d44668984f9444499866caa0d1435b3
+zuckerberg|russian prime minister dmitry medvedev|Zuckerberg met with then Russian Prime Minister Dmitry Medvedev in Moscow on October 1, 2012|0d44668984f9444499866caa0d1435b3
+zuckerberg|facebook|Facebook had roughly 9 million users in Russia in 2012|0d44668984f9444499866caa0d1435b3
+unemployed web developer|techcrunch disrupt conference|The unemployed web developer mentioned attending the TechCrunch Disrupt conference.|3b2e4b406cee4b38957e6323e8dfad40
+zuckerberg|5 billion people|Zuckerberg mentioned working towards registering the 5 billion people who were not connected to the Internet.|3b2e4b406cee4b38957e6323e8dfad40
+facebook|internet.org project|Facebook, along with other technology companies, supports the Internet.org project to increase the number of people connected to the internet.|3b2e4b406cee4b38957e6323e8dfad40
+facebook|mobile world congress|Facebook's focus on mobile technology was highlighted at the Mobile World Congress.|3b2e4b406cee4b38957e6323e8dfad40
+zuckerberg|techcrunch conference|Zuckerberg's speech at the TechCrunch conference expanded upon the goal of expanding Internet coverage into developing countries.|3b2e4b406cee4b38957e6323e8dfad40
+zuckerberg|mandarin chinese|Zuckerberg conversed in Mandarin Chinese|015ee6a169df48f9a6451169d0f9c194
+zuckerberg|facebook|Facebook is banned in China|015ee6a169df48f9a6451169d0f9c194
+zuckerberg|people|Zuckerberg is highly regarded among the people|015ee6a169df48f9a6451169d0f9c194
+zuckerberg|university|Zuckerberg was at the university to help fuel the nations burgeoning entrepreneur sector|015ee6a169df48f9a6451169d0f9c194
+zuckerberg|qa session|Zuckerberg fielded questions during a live QA session|015ee6a169df48f9a6451169d0f9c194
+instagram|facebook|Both Instagram and Facebook are social media platforms.|b5d68785f36d426ebcf0c6a671475922
+zuckerberg|world economic forum|Zuckerberg attended the World Economic Forum in Davos, Switzerland in January 2009.|b5d68785f36d426ebcf0c6a671475922
+zuckerberg|i2hub|Zuckerberg launched Facebook, while i2hub was another campus-only service created by Wayne Chang.|b5d68785f36d426ebcf0c6a671475922
+i2hub|facebook|Both i2hub and Facebook were gaining attention and growing rapidly in users and publicity.|b5d68785f36d426ebcf0c6a671475922
+zuckerberg|wirehog|Zuckerberg, along with Andrew McCollum, Adam DAngelo, and Sean Parker, launched Wirehog, a precursor to Facebook Platform applications.|b5d68785f36d426ebcf0c6a671475922
+facebookconnectu lawsuits|cameron winklevoss|Cameron Winklevoss accused Zuckerberg of intentionally misleading him|eede3adf3b1742b3aba09a3381ec641b
+facebookconnectu lawsuits|tyler winklevoss|Tyler Winklevoss accused Zuckerberg of intentionally misleading him|eede3adf3b1742b3aba09a3381ec641b
+facebookconnectu lawsuits|divya narendra|Divya Narendra accused Zuckerberg of intentionally misleading him|eede3adf3b1742b3aba09a3381ec641b
+facebookconnectu lawsuits|harvardconnection.com|The social network that Cameron Winklevoss, Tyler Winklevoss, and Divya Narendra believed Zuckerberg would help them build|eede3adf3b1742b3aba09a3381ec641b
+facebookconnectu lawsuits|connectu 2.0|The social network that Cameron Winklevoss, Tyler Winklevoss, and Divya Narendra believed Zuckerberg would help them build|eede3adf3b1742b3aba09a3381ec641b
+facebook|cofounders|Zuckerberg and Facebook cofounders Dustin Moskovitz and Chris Hughes|5aaa5d8e87f5453ebe207ba2348afd80
+facebook|draw muhammad contest|A Draw Muhammad contest was hosted on Facebook|5aaa5d8e87f5453ebe207ba2348afd80
+muhammad azhar sidiqque|criminal investigation|Muhammad Azhar Sidiqque launched a criminal investigation into Zuckerberg and Facebook cofounders Dustin Moskovitz and Chris Hughes|5aaa5d8e87f5453ebe207ba2348afd80
+muhammad azhar sidiqque|interpol|Sidiqque asked the country's police to contact Interpol to have Zuckerberg and the three others arrested for blasphemy|5aaa5d8e87f5453ebe207ba2348afd80
+pakistan|facebook|Facebook's website was temporarily blocked in Pakistan until Facebook removed the contest from its website|5aaa5d8e87f5453ebe207ba2348afd80
+facemash|facebook|Facemash is the predecessor to Facebook|6eefdac17e5c45d4a7d8c80341f18f40
+facebook|thefacebook.com|Facebook registered the domain name thefacebook.com on January 1, 2004|6eefdac17e5c45d4a7d8c80341f18f40
+facebook|lawsuit|Facebook management dismissed the lawsuit as completely frivolous|6eefdac17e5c45d4a7d8c80341f18f40
+barry schnitt|reporter|Barry Schnitt, a Facebook spokesman, told a reporter that Ceglia's counsel had unsuccessfully sought an out-of-court settlement|6eefdac17e5c45d4a7d8c80341f18f40
+ceglia|facebook|Ceglia is accused of defrauding the Facebook founder of billions of dollars|6eefdac17e5c45d4a7d8c80341f18f40
+zuckerberg|lawsuits|Zuckerberg dropped the lawsuits|fce233f1f4b141159217ef67f88b0a5f
+zuckerberg|process and its history|Zuckerberg regretted not understanding the process and its history|fce233f1f4b141159217ef67f88b0a5f
+zuckerberg|united states senate committee on commerce science and transportation|Zuckerberg testified before the United States Senate Committee on Commerce Science and Transportation|fce233f1f4b141159217ef67f88b0a5f
+facebook|facebook-cambridge analytica data scandal|Facebook's usage of personal data in relation to the Facebook-Cambridge Analytica data scandal|fce233f1f4b141159217ef67f88b0a5f
+zuckerberg|breach of trust|Zuckerberg called the whole affair a breach of trust|fce233f1f4b141159217ef67f88b0a5f
+facebook's handling of user data|january 6 2021 attack on the us capitol building|Facebook's role in the attack on the US Capitol Building|a2349b19d7954977b69e7d9ab67a210a
+facebook's handling of user data|efforts to combat misinformation and hate speech|Facebook's efforts to combat misinformation and hate speech|a2349b19d7954977b69e7d9ab67a210a
+facebook|responsibility to address these issues|Facebook's responsibility to address the mentioned issues|a2349b19d7954977b69e7d9ab67a210a
+facebook|steps to improve its policies and practices|Steps taken by Facebook to improve its policies and practices|a2349b19d7954977b69e7d9ab67a210a
+congress|hold tech companies accountable|Congress' effort to hold tech companies accountable|a2349b19d7954977b69e7d9ab67a210a
+meta|users|Metas decisions impacting billions of users|08732c9198c74217a5d7f4fc633d2e5c
+zuckerberg|meta officials|Occasional tensions between Zuckerberg and other Meta officials advocating for improved user wellbeing|08732c9198c74217a5d7f4fc633d2e5c
+social network|zuckerberg|The movie The Social Network is based on Zuckerberg and the founding years of Facebook|08732c9198c74217a5d7f4fc633d2e5c
+jesse eisenberg|zuckerberg|Jesse Eisenberg played Zuckerberg in The Social Network|08732c9198c74217a5d7f4fc633d2e5c
+zuckerberg|film|Zuckerberg's response to the film The Social Network|08732c9198c74217a5d7f4fc633d2e5c
+mark zuckerberg|best screenplay|Mark Zuckerberg won for Best Screenplay|3252dd6758044fe39de6f6a33fbf05fc
+mark zuckerberg|rooney maras character|Mark Zuckerberg is being addressed by Rooney Maras character|3252dd6758044fe39de6f6a33fbf05fc
+mark zuckerberg|jesse eisenberg|Mark Zuckerberg made a surprise guest appearance on Saturday Night Live hosted by Jesse Eisenberg|3252dd6758044fe39de6f6a33fbf05fc
+mark zuckerberg|saturday night live|Mark Zuckerberg made a surprise guest appearance on Saturday Night Live|3252dd6758044fe39de6f6a33fbf05fc
+mark zuckerberg|david kirkpatrick|David Kirkpatrick stated that the film is only 40% true|3252dd6758044fe39de6f6a33fbf05fc
+company|world|The company is connecting the world|d0a26376a2004ca4851bd73b29cc64cd
+film|true|The film is only 40% true|d0a26376a2004ca4851bd73b29cc64cd
+zuckerberg|snide and sarcastic|Zuckerberg is not snide and sarcastic in a cruel way|d0a26376a2004ca4851bd73b29cc64cd
+zuckerberg|factual incidents|Zuckerberg says that a lot of the factual incidents are accurate but many are distorted|d0a26376a2004ca4851bd73b29cc64cd
+zuckerberg|motivations|Zuckerberg's motivations were primarily to try and come up with a new way to share information on the Internet|d0a26376a2004ca4851bd73b29cc64cd
+zuckerberg|facebook|Zuckerberg is associated with Facebook|b9694ec3fb154d81948035ad0e90c1b9
+andy samberg|zuckerberg|Andy Samberg portrayed the role of Zuckerberg|b9694ec3fb154d81948035ad0e90c1b9
+zuckerberg|zuckerberg|Zuckerberg was reported to have been amused by something|b9694ec3fb154d81948035ad0e90c1b9
+stephen colbert|zuckerberg|Stephen Colbert awarded a Medal of Fear to Zuckerberg at the Rally to Restore Sanity and/or Fear|b9694ec3fb154d81948035ad0e90c1b9
+zuckerberg|privacy|Zuckerberg values his privacy|b9694ec3fb154d81948035ad0e90c1b9
+cory booker|chris christie|116 Newark Mayor Cory Booker stated that he and New Jersey Governor Chris Christie had to convince Zuckerbergs team not to make the donation anonymously|930ba79403e74d568a3041f9f4b0ea85
+dale russakoff|money|The money was largely wasted according to journalist Dale Russakoff|930ba79403e74d568a3041f9f4b0ea85
+mark zuckerberg|bill gates|In 2010 Zuckerberg Bill Gates and investor Warren Buffett signed The Giving Pledge|930ba79403e74d568a3041f9f4b0ea85
+mark zuckerberg|warren buffett|In 2010 Zuckerberg Bill Gates and investor Warren Buffett signed The Giving Pledge|930ba79403e74d568a3041f9f4b0ea85
+mark zuckerberg|priscilla chan|In December 2012 Zuckerberg and his wife Priscilla Chan said that over the course of their lives they would give the majority of their wealth to advancing human potential and promoting equality in the spirit of The Giving Pledge|930ba79403e74d568a3041f9f4b0ea85
+zuckerberg|wife|Zuckerberg and his wife donated 25 million to combat the Ebola virus disease|81f79e2274a445a197bb83cab9f1128d
+zuckerberg|san francisco general hospital|Zuckerberg endowed the foundation of the San Francisco General Hospital with 75 million|81f79e2274a445a197bb83cab9f1128d
+san francisco general hospital|the priscilla chan and mark zuckerberg san francisco general hospital and trauma center|The hospital renamed itself as The Priscilla Chan and Mark Zuckerberg San Francisco General Hospital and Trauma Center|81f79e2274a445a197bb83cab9f1128d
+san francisco general hospital|san francisco board of supervisors|The San Francisco Board of Supervisors passed a nonbinding measure condemning the renaming|81f79e2274a445a197bb83cab9f1128d
+zuckerberg|chan zuckerberg initiative|Zuckerberg pledged to transfer 99% of their Facebook shares to the Chan Zuckerberg Initiative|81f79e2274a445a197bb83cab9f1128d
+2016 czi|chan zuckerberg biohub|CZI gave 600 million to create the tax-exempt charity Chan Zuckerberg Biohub|176d79be32554606a1d52c429f01e8f7
+chan zuckerberg biohub|san francisco's mission bay district|Chan Zuckerberg Biohub is located in San Francisco's Mission Bay district|176d79be32554606a1d52c429f01e8f7
+chan zuckerberg biohub|university of california san francisco|Collaboration between scientists at Chan Zuckerberg Biohub and University of California San Francisco|176d79be32554606a1d52c429f01e8f7
+chan zuckerberg biohub|university of california berkeley|Collaboration between scientists at Chan Zuckerberg Biohub and University of California Berkeley|176d79be32554606a1d52c429f01e8f7
+chan zuckerberg biohub|stanford university|Collaboration between scientists at Chan Zuckerberg Biohub and Stanford University|176d79be32554606a1d52c429f01e8f7
+barack obama|private meeting|Barack Obama had a private meeting|edf382e411484f2cb15e982c5d147e38
+obama|technology business leaders|Obama had a private meeting with technology business leaders|edf382e411484f2cb15e982c5d147e38
+zuckerberg|registered to vote|Zuckerberg registered to vote in Westchester County, New York|edf382e411484f2cb15e982c5d147e38
+zuckerberg|did not cast a ballot|Zuckerberg did not cast a ballot until November 2008|edf382e411484f2cb15e982c5d147e38
+zuckerberg|no preference|Zuckerberg is listed as no preference on voter rolls|edf382e411484f2cb15e982c5d147e38
+de kirchner|april 2015|de Kirchner in April 2015|98373fc0e95e497db09d0e9d9841b97a
+zuckerberg|launch|Zuckerberg led the launch of a 501c4 lobbying group called FWDus|98373fc0e95e497db09d0e9d9841b97a
+fwdus|silicon valley entrepreneurs and investors|The founders and contributors to the group were primarily Silicon Valley entrepreneurs and investors|98373fc0e95e497db09d0e9d9841b97a
+fwdus|joe green|its president was Joe Green, a close friend of Zuckerberg|98373fc0e95e497db09d0e9d9841b97a
+fwdus|goals|The goals of the group include immigration reform, improving education, and enabling technological breakthroughs|98373fc0e95e497db09d0e9d9841b97a
+tech|hire more people|tech wanting to hire more people|b6a8a6448e3a4d61846e791b87f996fc
+11 million undocumented folks|treated fairly|ensuring the 11 million undocumented folks living in this country now and similar folks in the future are treated fairly|b6a8a6448e3a4d61846e791b87f996fc
+facebook employees|annual san francisco lesbian gay bisexual and transgender pride celebration|Facebook employees participating in the annual San Francisco Lesbian Gay Bisexual and Transgender Pride Celebration|b6a8a6448e3a4d61846e791b87f996fc
+2013 pride celebration|us supreme court ruling|2013 pride celebration following a US Supreme Court ruling that deemed the Defense of Marriage Act DOMA unconstitutional|b6a8a6448e3a4d61846e791b87f996fc
+prism scandal|techcrunch disrupt conference|PRISM scandal discussed at the TechCrunch Disrupt conference|b6a8a6448e3a4d61846e791b87f996fc
+muslims|facebook|Muslims are always welcome on Facebook|6587e91f66804535abe03cc262adb8bc
+jew|parents|Jew's position was a result of the fact that as a Jew my parents taught me|6587e91f66804535abe03cc262adb8bc
+zuckerberg|employees|Zuckerberg sent out a companywide internal memo to employees|6587e91f66804535abe03cc262adb8bc
+employees|black lives matter phrases|employees crossed out handwritten Black Lives Matter phrases on the company walls|6587e91f66804535abe03cc262adb8bc
+employees|all lives matter|employees had written All Lives Matter in their place|6587e91f66804535abe03cc262adb8bc
+incident|zuckerberg|Zuckerberg showed a clear understanding of why the phrase Black Lives Matter must exist as well as why writing through it is a form of harassment and erasure|b3504541ad22480c8f9278b02fd066bf
+zuckerberg|donald trumps executive order|Zuckerberg criticized Donald Trumps executive order to severely limit immigrants and refugees from some countries|b3504541ad22480c8f9278b02fd066bf
+zuckerberg|statelevel ballot initiative|Zuckerberg funded a statelevel ballot initiative for the 2020 general election that would raise taxes by altering Californias Proposition 13 to require the tax assessment of commercial and industrial properties in the state at market rate|b3504541ad22480c8f9278b02fd066bf
+zuckerberg|progressive causes|Especially in his twenties Zuckerberg had financially supported various progressive causes such as immigration reform and social justice|b3504541ad22480c8f9278b02fd066bf
+zuckerberg|biden administration|Zuckerberg regretted not doing more to resist pressure from the Biden administration to censure content related to COVID19|b3504541ad22480c8f9278b02fd066bf
+classical liberalism|personal life|Zuckerberg's personal life is influenced by classical liberalism|95d348e0213147d89dbcdfcde9335173
+zuckerberg|priscilla chan|Zuckerberg met Priscilla Chan at a frat party and they began dating|95d348e0213147d89dbcdfcde9335173
+zuckerberg|priscilla chan|Zuckerberg and Priscilla Chan got married|95d348e0213147d89dbcdfcde9335173
+zuckerberg|maxima chan zuckerberg|Zuckerberg and Priscilla Chan have a daughter named Maxima Chan Zuckerberg|95d348e0213147d89dbcdfcde9335173
+zuckerberg|august|Zuckerberg and Priscilla Chan have a daughter named August|95d348e0213147d89dbcdfcde9335173
+time person of the year|facebook|Zuckerberg was named Time Person of the Year in the same year when Facebook eclipsed more than half a billion users|1df4a7d308954f1e9312dc90d3f9b2ee
+time 100 ai list|zuckerberg|Zuckerberg was included in the Time 100 AI list|1df4a7d308954f1e9312dc90d3f9b2ee
+forbes list|zuckerberg|Zuckerberg was ranked tenth on the Forbes list of the World's Most Powerful People|1df4a7d308954f1e9312dc90d3f9b2ee
+forbes 400 list|zuckerberg|Zuckerberg was ranked eighth on the Forbes 400 list of wealthiest Americans|1df4a7d308954f1e9312dc90d3f9b2ee
+zuckerberg's net worth|forbes|Zuckerberg's net worth was estimated at 202 billion by Forbes, making him the fourth richest person in the world|1df4a7d308954f1e9312dc90d3f9b2ee
+two billion people|social network|regularly use|1a4690ee471a49d4a615544416b2c39b
+zuckerberg|farmers and business owners|met with|1a4690ee471a49d4a615544416b2c39b
+zuckerberg|mother emanuel|spoke at|1a4690ee471a49d4a615544416b2c39b
+mother emanuel|shooting|took place in|1a4690ee471a49d4a615544416b2c39b
+zuckerberg|mixed martial arts mma|took up training in|1a4690ee471a49d4a615544416b2c39b
+mark zuckerberg|germany|Mark Zuckerberg's great grandparents came from Germany|696743a392d44b40996f85dc41042ac0
+mark zuckerberg|austria|Mark Zuckerberg's great grandparents came from Austria|696743a392d44b40996f85dc41042ac0
+mark zuckerberg|poland|Mark Zuckerberg's great grandparents came from Poland|696743a392d44b40996f85dc41042ac0
+facebook|germany|Facebook was archived from the original on February 26, 2022|696743a392d44b40996f85dc41042ac0
+facebook|austria|Facebook was archived from the original on February 26, 2022|696743a392d44b40996f85dc41042ac0
+mark zuckerberg|facebook|Mark Zuckerberg founded Facebook|b42429a1ecb14f79961f06a19ef9acf5
+mark zuckerberg|girls|Facebook was not founded to find girls|b42429a1ecb14f79961f06a19ef9acf5
+mark zuckerberg|roommate|Mark Zuckerberg's roommate recounts the creation of Facebook|b42429a1ecb14f79961f06a19ef9acf5
+mark zuckerberg|internet giant|Creation of Internet giant|b42429a1ecb14f79961f06a19ef9acf5
+mark zuckerberg|career|Mark Zuckerberg's career in 90 seconds|b42429a1ecb14f79961f06a19ef9acf5
+facemash creator|ad board|Survives|a880503161dc48fb84a091dc41d72da9
+mark zuckerberg|facebook users|Broke into|a880503161dc48fb84a091dc41d72da9
+mark zuckerberg|connectu|Feud With|a880503161dc48fb84a091dc41d72da9
+winklevoss twins|facebook ipo|Heading for|a880503161dc48fb84a091dc41d72da9
+facebook|how facebook was founded|Full Story Of|a880503161dc48fb84a091dc41d72da9
+september 11 2013|march 26 2013|Original date and retrieval date|e47f96f3dcc748f69348592700566808
+students|college online facebook|Students joining college online facebook|e47f96f3dcc748f69348592700566808
+mark zuckerberg|harvard dropout|Mark Zuckerberg being a Harvard dropout|e47f96f3dcc748f69348592700566808
+mark zuckerberg|open arms|Mark Zuckerberg returning to open arms|e47f96f3dcc748f69348592700566808
+mark zuckerberg|christian science monitor|Mark Zuckerberg featured in Christian Science Monitor|e47f96f3dcc748f69348592700566808
+backtothefuture move|peter currie|former Netscape CFO|007a2e37cb4a4767b74dd4a833ba1bd9
+peter currie|facebook|key adviser about financial matters|007a2e37cb4a4767b74dd4a833ba1bd9
+facebook|cfo|new search for a CFO|007a2e37cb4a4767b74dd4a833ba1bd9
+mark zuckerberg|july 22 2010|date|007a2e37cb4a4767b74dd4a833ba1bd9
+facebook|500 million stories|source|007a2e37cb4a4767b74dd4a833ba1bd9
+andrew e|zuckerberg|Zuckerberg meets with Andrew E|02088320cc4f4ff7bfbe308253b14306
+zuckerberg|medvedev|Zuckerberg meets with Medvedev|02088320cc4f4ff7bfbe308253b14306
+zuckerberg|russian prime minister|Zuckerberg meets with Russian prime minister|02088320cc4f4ff7bfbe308253b14306
+russia|facebook|Russia pushes Facebook to open research center|02088320cc4f4ff7bfbe308253b14306
+facebook|research center|Facebook opens research center|02088320cc4f4ff7bfbe308253b14306
+incisive interactive marketing llc|archived|Incisive Interactive Marketing LLC is archived|c71be5ecb83649ee9e7cbf558321ce07
+mark zuckerberg|barcelona|Mark Zuckerberg goes to Barcelona|c71be5ecb83649ee9e7cbf558321ce07
+mark zuckerberg|mobile world congress|Mark Zuckerberg speaks at Mobile World Congress|c71be5ecb83649ee9e7cbf558321ce07
+mobile world congress|barcelona|Mobile World Congress is held in Barcelona|c71be5ecb83649ee9e7cbf558321ce07
+mark zuckerberg|chinese university|Mark Zuckerberg addresses Chinese university|c71be5ecb83649ee9e7cbf558321ce07
+proxy statement|united states security and exchange commission|Document mentioned in the United States Security and Exchange Commission|f46ed5062d9a49edaa4398afdd14c101
+april 26 2013|p31|Page number mentioned in the document|f46ed5062d9a49edaa4398afdd14c101
+mr zuckerbergs|annual base salary|Mr Zuckerbergs annual base salary was reduced to 1|f46ed5062d9a49edaa4398afdd14c101
+annual bonus compensation|bonus plan|Mr Zuckerberg will no longer receive annual bonus compensation under our Bonus Plan|f46ed5062d9a49edaa4398afdd14c101
+business visionaries|creating value for the world|Top 10 business visionaries creating value for the world|f46ed5062d9a49edaa4398afdd14c101
+new website|harvard crimson|Archived from the original on August 23 2010 Retrieved July 26 2010|585d6088b5f74d468ee1c3c27ddd36d0
+80000 developers|archived from the original on march 24 2017 retrieved april 21 2016|Archived from the original on March 24 2017 Retrieved April 21 2016|585d6088b5f74d468ee1c3c27ddd36d0
+jessi hempel|may 17 2018|What Happened to Internetorg Facebooks Grand Plan to Wire the World|585d6088b5f74d468ee1c3c27ddd36d0
+meet at the silicon valley|indian prime minister narendra modi|among the tech leaders and Indian Prime Minister Narendra Modi|585d6088b5f74d468ee1c3c27ddd36d0
+lee seung|april 13 2016|Mark Zuckerberg just joined a new project to explore the universe faster|585d6088b5f74d468ee1c3c27ddd36d0
+west jackson|june 18 2010|West Jackson is mentioned on June 18, 2010|cd9296b00c194921b5252f57a3193d97
+facebook ceo|pakistan criminal investigation|The Facebook CEO is named in a Pakistan Criminal Investigation|cd9296b00c194921b5252f57a3193d97
+mark zuckerberg|pakistani lawyer|A Pakistani lawyer petitions for the death of Mark Zuckerberg|cd9296b00c194921b5252f57a3193d97
+facebook|ceglia|Facebook does not have a like button for Ceglia|cd9296b00c194921b5252f57a3193d97
+ceglia|lawsuit|Venture beat coverage of Ceglia lawsuit|cd9296b00c194921b5252f57a3193d97
+wayback machine|wired|Archived at the Wayback Machine|b2c86f5947a04b86822bd46d829597bd
+wayback machine|pacific business news|Archived at the Wayback Machine|b2c86f5947a04b86822bd46d829597bd
+facebook|zuckerberg|Zuckerberg officially drops Hawaii quiet title actions|b2c86f5947a04b86822bd46d829597bd
+zuckerberg|hendel john|Zuckerberg testimony|b2c86f5947a04b86822bd46d829597bd
+facebook|politico eu|We didn't do enough politicoeu|b2c86f5947a04b86822bd46d829597bd
+associated press|archived|Associated Press is archived from the original|c752fb0f480549cdac4246ef1370139c
+brian fung|mark zuckerberg|Brian Fung alleges that Mark Zuckerberg personally rejected Metas proposals to improve teen mental health|c752fb0f480549cdac4246ef1370139c
+cnn|archived|CNN is archived from the original|c752fb0f480549cdac4246ef1370139c
+ina fried|zuckerberg|Ina Fried mentions Zuckerberg in the hot seat at D8|c752fb0f480549cdac4246ef1370139c
+john harlow|facebook boss|John Harlow mentions a movie depicting the seamy life of the Facebook boss|c752fb0f480549cdac4246ef1370139c
+jesse eisenberg|mark zuckerberg|Jesse Eisenberg meets the real Mark Zuckerberg on SNL|e19a4a89bc134523bb2d82741749615c
+jesse eisenberg|mark zuckerberg|Jesse Eisenberg Calls Mark Zuckerberg Sweet and Generous in His Funny Oscar Nominees Lunch Interview|e19a4a89bc134523bb2d82741749615c
+mark zuckerberg|jesse eisenberg|Mark Zuckerberg Meets Jesse Eisenberg On The Saturday Night Live Stage|e19a4a89bc134523bb2d82741749615c
+mark zuckerberg|mark zuckerberg|The Facebook Effect The Inside Story of the Company That Is Connecting the World|e19a4a89bc134523bb2d82741749615c
+mark zuckerberg|mark zuckerberg|Facebook Creator Mark Zuckerberg to Get Yellow on The Simpsons|e19a4a89bc134523bb2d82741749615c
+bloomberg news|archived|Bloomberg News is archived|425326f19fc64553b300928f86bc59f1
+archived|november 3 2010|Archived on November 3 2010|425326f19fc64553b300928f86bc59f1
+november 3 2010|retrieved|Retrieved on November 4 2010|425326f19fc64553b300928f86bc59f1
+retrieved|november 4 2010|Retrieved on November 4 2010|425326f19fc64553b300928f86bc59f1
+nina metz|july 18 2013|Nina Metz on July 18 2013|425326f19fc64553b300928f86bc59f1
+isaac|mike|Both are names of people mentioned in the context.|293b2f61bd384bd8ba013ac0af217678
+zuckerberg|newark|Zuckerberg made a donation to Newark public schools.|293b2f61bd384bd8ba013ac0af217678
+forbes|zuckerberg|Forbes reported on Zuckerberg's donation.|293b2f61bd384bd8ba013ac0af217678
+yahoo finance|zuckerberg|Yahoo Finance reported on Zuckerberg's failed donation.|293b2f61bd384bd8ba013ac0af217678
+kotlowitz alex|dale russakoff|Kotlowitz Alex wrote a book called 'The Prize' by Dale Russakoff.|293b2f61bd384bd8ba013ac0af217678
+mark zuckerberg|charity|donates 1bn to|0c89083aaf714545935a99f767cf1428
+mark zuckerberg|charitable gift|biggest giver in 2013|0c89083aaf714545935a99f767cf1428
+mark zuckerberg|ebola fight|donate 25 million to|0c89083aaf714545935a99f767cf1428
+mark zuckerberg|san francisco general hospital|give 75 million to|0c89083aaf714545935a99f767cf1428
+mark zuckerberg|facebook shares|donate 99% of|0c89083aaf714545935a99f767cf1428
+mark zuckerberg|facebook|Mark Zuckerberg is the founder of Facebook|2cd31d49a7c2410888eeb8944f56d143
+mark zuckerberg|charity|Mark Zuckerberg vows to donate 99% of his Facebook shares for charity|2cd31d49a7c2410888eeb8944f56d143
+mark zuckerberg|philanthrocapitalism|Mark Zuckerberg and the Rise of Philanthrocapitalism|2cd31d49a7c2410888eeb8944f56d143
+mark zuckerberg|chan zuckerberg biohub|Mark Zuckerberg's philanthropy uses LLC for more control|2cd31d49a7c2410888eeb8944f56d143
+chan zuckerberg biohub|science|Chan Zuckerberg Biohub funds first crop of 47 investigators in Science|2cd31d49a7c2410888eeb8944f56d143
+biohub|investigators|Biohub funds first crop of 47 investigators|aa94481dd54b414a85c10ec81b39c762
+science|doi101126scienceaal0719|Archived from the original on March 4 2022 Retrieved March 3 2022|aa94481dd54b414a85c10ec81b39c762
+chan zuckerberg biohub|intercampus research awards|FREQUENTLY ASKED QUESTIONS CHAN ZUCKERBERG BIOHUB INTERCAMPUS RESEARCH AWARDS|aa94481dd54b414a85c10ec81b39c762
+chan zuckerberg biohub network|december 5 2020|Archived from the original on December 5 2020 Retrieved January 14 2021|aa94481dd54b414a85c10ec81b39c762
+mark zuckerberg|priscilla chan|Mark Zuckerberg And Priscilla Chan Donate 25M To Gates Foundation Coronavirus Accelerator|aa94481dd54b414a85c10ec81b39c762
+original|february 22 2013|Retrieved on February 22 2013|9c3ad810e442424da6fbd0a3b656b762
+original|june 20 2013|Retrieved on June 20 2013|9c3ad810e442424da6fbd0a3b656b762
+elise young|june 8 2013|Young Elise on June 8 2013|9c3ad810e442424da6fbd0a3b656b762
+zuckerberg|cory bookers senate run|Zuckerberg Plans Fundraiser for Cory Bookers Senate Run|9c3ad810e442424da6fbd0a3b656b762
+bloomberg news|october 23 2013|Archived from the original on October 23 2013|9c3ad810e442424da6fbd0a3b656b762
+mark zuckerberg|keystone drilling ads|Mark Zuckerberg takes heat over Keystone Drilling Ads|9ee62247a96147d3842433b713da3f8e
+mark zuckerberg|liberal groups|Mark Zuckerberg faces boycott from liberal groups over immigration push|9ee62247a96147d3842433b713da3f8e
+mark zuckerberg|facebook commenters|Mark Zuckerberg replies to his Facebook commenters' questions on immigration|9ee62247a96147d3842433b713da3f8e
+mark zuckerberg|sf lgbt pride|Mark Zuckerberg likes SF LGBT Pride as tech companies publicly celebrate equal rights|9ee62247a96147d3842433b713da3f8e
+mark zuckerberg|muslim rights|Mark Zuckerberg vows to fight to protect Muslim rights on Facebook|9ee62247a96147d3842433b713da3f8e
+december 10 2015|retrieved december 10 2015|Original date and retrieval date|ce096d302bd6415c9c058b717d03908a
+cenk uygur|december 10 2015|Cenk Uygur mentioned on December 10, 2015|ce096d302bd6415c9c058b717d03908a
+mark zuckerberg|muslims|Mark Zuckerberg stands with Muslims|ce096d302bd6415c9c058b717d03908a
+mark zuckerberg|jewish heritage|Mark Zuckerberg invokes Jewish Heritage in Facebook post supporting Muslims|ce096d302bd6415c9c058b717d03908a
+december 9 2015|mark zuckerberg|Mark Zuckerberg voices support for Muslims|ce096d302bd6415c9c058b717d03908a
+property tax change|grocery store|Petitions for a property tax change are coming to a grocery store near you|aef30a8cb4b24d1e8e569541aa5a634e
+mark zuckerberg|politics|Mark Zuckerberg Is Done With Politics|aef30a8cb4b24d1e8e569541aa5a634e
+mark zuckerberg|white house|Mark Zuckerberg says White House pressured Facebook to censor Covid19 content|aef30a8cb4b24d1e8e569541aa5a634e
+mark zuckerberg|government pressure|Zuckerberg says he regrets not being more outspoken about government pressure on COVID content|aef30a8cb4b24d1e8e569541aa5a634e
+white house|facebook|The White House pressured Facebook over some COVID19 content during the pandemic|aef30a8cb4b24d1e8e569541aa5a634e
+mark zuckerberg|priscilla chan|Mark Zuckerberg marries Priscilla Chan|315de0bdf6ee402ea61538518e2a94ea
+mark zuckerberg|priscilla chan|Mark Zuckerberg and Priscilla Chan to give away 99 percent of their Facebook stock worth 45 billion|315de0bdf6ee402ea61538518e2a94ea
+mark zuckerberg|priscilla chan|Mark Zuckerberg Reveals Daughters Chinese Name|315de0bdf6ee402ea61538518e2a94ea
+mark zuckerberg|priscilla chan|Mark Zuckerberg and his wife just unveiled their new baby girl to the world|315de0bdf6ee402ea61538518e2a94ea
+mark zuckerberg|priscilla chan|Mark Zuckerberg and Wife Priscilla Chan Welcome Baby No 3|315de0bdf6ee402ea61538518e2a94ea
+wife priscilla chan|baby no 3 daughter aurelia|Welcome|c3ece19c865f4a3e97296c6785c78e50
+mark zuckerberg|beast zuckerberg|New favorite dog|c3ece19c865f4a3e97296c6785c78e50
+mark zuckerberg|beast|Moping over new baby|c3ece19c865f4a3e97296c6785c78e50
+mark zuckerberg|roman statue of wife|Reveals|c3ece19c865f4a3e97296c6785c78e50
+mark zuckerberg|person of the year 2010|Named|c3ece19c865f4a3e97296c6785c78e50
+mark zuckerberg|gigajacht tagesanzeiger|Mark Zuckerberg and his Gigajacht TagesAnzeiger|ac1772935d554bf8b0ba3e6ca6ba0533
+mark zuckerberg|the wall street journal|Mark Zuckerberg's mention in The Wall Street Journal|ac1772935d554bf8b0ba3e6ca6ba0533
+mark zuckerberg|the washington post|Mark Zuckerberg's mention in The Washington Post|ac1772935d554bf8b0ba3e6ca6ba0533
+mark zuckerberg|the new york times|Mark Zuckerberg's mention in The New York Times|ac1772935d554bf8b0ba3e6ca6ba0533
+mark zuckerberg|cnn|Mark Zuckerberg's visit to Mother Emanuel AME Church mentioned by CNN|ac1772935d554bf8b0ba3e6ca6ba0533
+mma|debut|Training for MMA debut|79f8fc6d2cca443a8134e2c1afd84a1e
+jits|mma|Training in Jits for MMA debut|79f8fc6d2cca443a8134e2c1afd84a1e
+mark zuckerberg|wikimedia commons|Mark Zuckerberg is related to Wikimedia Commons|79f8fc6d2cca443a8134e2c1afd84a1e
+mark zuckerberg|wikinews|Mark Zuckerberg is related to Wikinews|79f8fc6d2cca443a8134e2c1afd84a1e
+mark zuckerberg|wikiquote|Mark Zuckerberg is related to Wikiquote|79f8fc6d2cca443a8134e2c1afd84a1e
+cto|chris cox|Chris Cox is the Chief Technology Officer (CTO)|1fcbeb7ca03d46d99fd7d74983ce9093
+cpo|nick clegg|Nick Clegg is the Chief Policy Officer (CPO)|1fcbeb7ca03d46d99fd7d74983ce9093
+president of global affairs|jennifer newstead|Jennifer Newstead is the President of Global Affairs|1fcbeb7ca03d46d99fd7d74983ce9093
+chief legal officer|former|Former Chief Legal Officer|1fcbeb7ca03d46d99fd7d74983ce9093
+sean parker|former|Sean Parker is a former employee|1fcbeb7ca03d46d99fd7d74983ce9093
+randi zuckerberg|yishan wong|Unknown relationship|f16a7616c04e4ab381401ddaa3e3658d
+george hotz|joe lockhart|Unknown relationship|f16a7616c04e4ab381401ddaa3e3658d
+andrei alexandrescu|research scientist|Unknown relationship|f16a7616c04e4ab381401ddaa3e3658d
+chamath palihapitiya|vp of user growth|Unknown relationship|f16a7616c04e4ab381401ddaa3e3658d
+elliot schrage|vp of global communications marketing and public policy|Unknown relationship|f16a7616c04e4ab381401ddaa3e3658d
+hugh s johnson|franklin d roosevelt|Hugh S Johnson served as the Administrator of the National Recovery Administration (NRA) under President Franklin D Roosevelt.|c547f31b59764702a0ee1c41df33e824
+franklin d roosevelt|haile selassie|Franklin D Roosevelt recognized Haile Selassie as the Emperor of Ethiopia.|c547f31b59764702a0ee1c41df33e824
+haile selassie|wallis simpson|Haile Selassie had a meeting with Wallis Simpson, the Duchess of Windsor.|c547f31b59764702a0ee1c41df33e824
+chiang kaishek|soong meiling|Chiang Kaishek was married to Soong Meiling, also known as Madame Chiang.|c547f31b59764702a0ee1c41df33e824
+adolf hitler|joseph stalin|Adolf Hitler and Joseph Stalin were prominent leaders during World War II.|c547f31b59764702a0ee1c41df33e824
+carol sutton|addie wyatt|1975-1976|e8edf051afa0424d856f66606889d54a
+jimmy carter|anwar sadat|1976-1977|e8edf051afa0424d856f66606889d54a
+anwar sadat|deng xiaoping|1977-1978|e8edf051afa0424d856f66606889d54a
+deng xiaoping|ayatollah khomeini|1978-1979|e8edf051afa0424d856f66606889d54a
+ayatollah khomeini|ronald reagan|1979-1980|e8edf051afa0424d856f66606889d54a
+hyde|jonathan rubiniaz|Both individuals mentioned in the context|67deb63cc5e8423faf1434044c7faa32
+ernest garcia iiar|jim waltonca|Both individuals mentioned in the context|67deb63cc5e8423faf1434044c7faa32
+mark zuckerbergco|philip anschutzct|Both individuals mentioned in the context|67deb63cc5e8423faf1434044c7faa32
+steve cohende|elizabeth snyderfl|Both individuals mentioned in the context|67deb63cc5e8423faf1434044c7faa32
+jeff bezosga|the cathyshi|Both individuals mentioned in the context|67deb63cc5e8423faf1434044c7faa32
+brazilian jiujitsu|american technology chief executives|Some Brazilian jiujitsu practitioners have become American technology chief executives|217bde72a5e4455ba9c068f67230bc1a
+american technology company founders|businesspeople from new york state|Some American technology company founders are businesspeople from New York state|217bde72a5e4455ba9c068f67230bc1a
+businesspeople from palo alto california|centibillionaires|Some businesspeople from Palo Alto California have become centibillionaires|217bde72a5e4455ba9c068f67230bc1a
+directors of meta platforms|facebook employees|Some directors of Meta Platforms are Facebook employees|217bde72a5e4455ba9c068f67230bc1a
+harvard college alumni|life extensionists|Some Harvard College alumni are life extensionists|217bde72a5e4455ba9c068f67230bc1a
+terms of use|privacy policy|Terms of Use and Privacy Policy are legal documents outlining the rules and regulations for using a website or service.|849352f02f9043b5a14b80b0eda2cfe5
+wikipedia|wikimedia foundation inc|Wikipedia is a registered trademark owned by the Wikimedia Foundation Inc, a nonprofit organization.|849352f02f9043b5a14b80b0eda2cfe5
+wikipedia|privacy policy|Wikipedia has its own Privacy Policy that outlines how user data is collected and protected.|849352f02f9043b5a14b80b0eda2cfe5
+wikipedia|about wikipedia|About Wikipedia provides information about the purpose, history, and content of the Wikipedia website.|849352f02f9043b5a14b80b0eda2cfe5
+wikipedia|disclaimers|Disclaimers on Wikipedia clarify the limitations and responsibilities of the information provided on the website.|849352f02f9043b5a14b80b0eda2cfe5

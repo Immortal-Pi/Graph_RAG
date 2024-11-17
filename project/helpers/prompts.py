@@ -88,30 +88,7 @@ def graphPrompt(input: str, metadata={}, model="gpt-4"):
     # print( chalk.blue(model_info))
 
     SYS_PROMPT = (
-    # "You are a network graph maker who extracts terms and their relations from a given context. "
-    # "You are provided with a context chunk (delimited by ```), and your task is to extract the ontology "
-    # "of terms mentioned in the given context. These terms should represent the key concepts as per the context.\n"
-    
-    # "Thought 1: While traversing through each sentence, think about the key terms mentioned in it.\n"
-    # "\tTerms may include object, entity, location, organization, person, \n"
-    # "\tcondition, acronym, documents, service, concept, etc.\n"
-    # "\tTerms should be as atomistic as possible.\n\n"
-    
-    # "Thought 2: Consider how these terms can have one-on-one relations with other terms.\n"
-    # "\tTerms mentioned in the same sentence or paragraph are typically related to each other.\n"
-    # "\tTerms can be related to many other terms.\n\n"
-    
-    # "Thought 3: Identify the relation between each related pair of terms. \n\n"
-    
-    # "Format your output as a list of JSON objects, with a maximum of 5 term pairs. Each object should contain "
-    # "a pair of terms and their relationship, like the following:\n"
-    # "[\n"
-    # "   {\n"
-    # '       "node_1": "A concept from extracted ontology",\n'
-    # '       "node_2": "A related concept from extracted ontology",\n'
-    # '       "edge": "Relationship between node_1 and node_2 in one concise sentence"\n'
-    # "   }\n"
-    # "]"
+   
         """From the biography text of a famous person or celebrity below, extract Entities and Relationships strictly as instructed:
     1. Identify all significant entities and relationships from the text, categorizing each as described below. The `id` property of each entity must be unique and alphanumeric, to ensure distinct nodes in Neo4j. You will be using this `id` property to define relationships between entities. Only use the entity types below; do NOT create new types.
 
@@ -128,11 +105,11 @@ def graphPrompt(input: str, metadata={}, model="gpt-4"):
     - **Achievement**: Specify the nature of the accomplishment (e.g., "Oscar-winning performance in 'Good Will Hunting'").
     - **Organization**: Indicate the person’s role or connection (e.g., "Co-founder of Tesla, Inc.").
     - **Event**: Highlight the key details of the event (e.g., "Nobel Prize in Physics, 1921").
-    - **Relationship**: Clearly describe the connection and indicate its direction, ensuring each relationship is accurately categorized.
+    - **Relationship**: Clearly describe the connection and indicate its direction, ensuring each relationship is accurately categorized. choose only important relations dont create relations for simple things like for 'noted', 'met_with'
 
     3. **Rules for Extraction**:
     - Avoid fictional or inferred data; extract only verifiable entities and relationships.
-    - Do not create duplicate entities.
+    - Do not create duplicate entities with the same label.
     - Only extract entities directly relevant to the person’s role, achievements, or associations.
     - Avoid personal anecdotes or unrelated information.
     - Avoid incomplete results in JSON format
@@ -161,6 +138,7 @@ def graphPrompt(input: str, metadata={}, model="gpt-4"):
         {
             "label": "OrbitMission",
             "id": "event1",
+            "role": "OrbitMission",
             "description": "First private company to send humans to orbit, 2020"
         },
         {
@@ -171,13 +149,14 @@ def graphPrompt(input: str, metadata={}, model="gpt-4"):
             "target": "organization3"  
         }
     ],
-    "Relationships""[
+    "Relationships":[
                 {
                     "label": "Founded",
                     "id": "relationship1",
                     "type": "Founded",
                     "source": "person1",
-                    "target": "organization3"  
+                    "target": "organization1",
+                    "description": "Elon Musk founded Spacex a spaceflight services company, in 2002"  
                 },
                 {
                     "label": "Collaborated with",
@@ -205,10 +184,11 @@ def graphPrompt(input: str, metadata={}, model="gpt-4"):
         temperature=0.1,
         # max_tokens=500,
     )
+    # return response.choices[0].message.content
     try:
         print(response.choices[0].message.content)
         result = json.loads(response.choices[0].message.content)
-        result = [dict(item, **metadata) for item in result]
+        # result = [dict(item, **metadata) for item in result]
         # print(result)
     except:
         print("\n\nERROR ### Here is the buggy response: ", response, "\n\n")
