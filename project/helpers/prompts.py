@@ -105,7 +105,7 @@ def graphPrompt(input: str, metadata={}, model="gpt-4"):
     - **Achievement**: Specify the nature of the accomplishment (e.g., "Oscar-winning performance in 'Good Will Hunting'").
     - **Organization**: Indicate the person’s role or connection (e.g., "Co-founder of Tesla, Inc.").
     - **Event**: Highlight the key details of the event (e.g., "Nobel Prize in Physics, 1921").
-    - **Relationship**: Clearly describe the connection and indicate its direction, ensuring each relationship is accurately categorized. choose only important relations dont create relations for simple things like for 'noted', 'met_with'
+    - **Relationship**: Clearly describe the connection and indicate its direction, ensuring each relationship is accurately categorized. 
 
     3. **Rules for Extraction**:
     - Avoid fictional or inferred data; extract only verifiable entities and relationships.
@@ -113,41 +113,36 @@ def graphPrompt(input: str, metadata={}, model="gpt-4"):
     - Only extract entities directly relevant to the person’s role, achievements, or associations.
     - Avoid personal anecdotes or unrelated information.
     - Avoid incomplete results in JSON format
+    - choose only important relationships dont create relationships for simple things like for 'noted', 'met_with'
 
     4. **Example Output JSON**:
     {
     "entities": [
         {
             "label": "Elon Musk",
-            "id": "person1",
+            "id": "Elon Musk",
             "role": "Entrepreneur",
             "description": "Visionary entrepreneur and business magnate"
         },
         {
             "label": "NASA",
-            "id": "organization3",
+            "id": "NASA",
             "role": "Partner",
             "description": "National Aeronautics and Space Administration"
         },
         {
             "label": "SpaceX",
-            "id": "organization1",
+            "id": "SpaceX",
             "role": "Founder",
             "description": "Founder and CEO of SpaceX"
         },
         {
             "label": "OrbitMission",
-            "id": "event1",
+            "id": "OrbitMission",
             "role": "OrbitMission",
             "description": "First private company to send humans to orbit, 2020"
-        },
-        {
-            "label": "Founded",
-            "id": "relationship1",
-            "type": "Founded",
-            "source": "person1",
-            "target": "organization3"  
         }
+        
     ],
     "Relationships":[
                 {
