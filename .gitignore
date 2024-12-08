@@ -1,3 +1,4 @@
 ## all API keys in .env file
 .env
 service_account.json
+test_account.json
