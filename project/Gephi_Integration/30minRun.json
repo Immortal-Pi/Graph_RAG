@@ -1,0 +1,592 @@
+[
+ {
+  "node_1": "Dana White",
+  "node_2": "Ultimate Fighting Championship",
+  "edge": "Dana White serves as the CEO and president of the Ultimate Fighting Championship (UFC)."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Power Slap",
+  "edge": "Dana White is also the owner of Power Slap, a slap fighting promotion."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Manchester",
+  "edge": "Dana White was born in Manchester, Connecticut."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "June and Dana White Sr",
+  "edge": "Dana White was born to June and Dana White Sr."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Kelly White",
+  "edge": "Dana White and his sister Kelly were raised by their mother and her family for the majority of their childhoods."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Lorenzo Fertitta",
+  "edge": "Dana White first met Lorenzo Fertitta in high school, but they became close friends later in life."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Bishop Gorman High School",
+  "edge": "Dana White attended Bishop Gorman High School."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Ware",
+  "edge": "Dana White spent many of his early years residing in Ware, Massachusetts."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Las Vegas",
+  "edge": "The White family moved to Las Vegas when Dana was in third grade, as it offered higher wages for nurses."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Levant, Maine",
+  "edge": "Dana White spent summers in Levant, Maine to visit his grandparents."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Hermon High School",
+  "edge": "Dana White attended Hermon High School for his senior year of high school."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Quincy College",
+  "edge": "Dana White started college at Quincy College but dropped out during his first semester."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "UMass Boston",
+  "edge": "Dana White also started college at UMass Boston but dropped out during his first semester."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Quincy College",
+  "edge": "Michael Jai White attended Quincy College."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "UMass Boston",
+  "edge": "Michael Jai White also attended UMass Boston but dropped out during his first semester."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Boston Harbor Hotel",
+  "edge": "Michael Jai White worked as a bellhop at the Boston Harbor Hotel."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Peter Welch",
+  "edge": "Michael Jai White befriended former Golden Gloves champion Peter Welch through boxing."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Boxing gym",
+  "edge": "Michael Jai White started a boxing gym in Boston with Peter Welch."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Whitey Bulger",
+  "edge": "Michael Jai White was threatened by mobster Whitey Bulger and his associate Kevin Weeks."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Las Vegas",
+  "edge": "Michael Jai White returned to Las Vegas in the early 1990s after the threat."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Delta",
+  "edge": "Michael Jai White quickly left Boston for Las Vegas after a phone threat by buying a ticket with Delta Airlines."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "John Lewis",
+  "edge": "Michael Jai White trained jiujitsu under John Lewis."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "UFC",
+  "edge": "Michael Jai White became a key figure in the UFC after meeting Bob Meyrowitz and Lorenzo Fertitta."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Lorenzo Fertitta",
+  "edge": "Michael Jai White reconnected with Lorenzo Fertitta at a wedding and started a business partnership that led to the UFC acquisition."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Frank Fertitta III",
+  "edge": "Michael Jai White also reconnected with Frank Fertitta III through Lorenzo Fertitta."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Bob Meyrowitz",
+  "edge": "Michael Jai White met Bob Meyrowitz while working as a manager for Ortiz and Liddell in the UFC."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Tito Ortiz",
+  "edge": "Michael Jai White became the manager for Tito Ortiz and eventually for Chuck Liddell."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Station Casinos",
+  "edge": "Michael Jai White became an executive at Station Casinos due to his friendship with Lorenzo Fertitta."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Zuffa",
+  "edge": "Michael Jai White's partnership led to the acquisition of the UFC and his company Zuffa's ownership of it."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "UFC website",
+  "edge": "Michael Jai White's partnership found the UFC in a dire state with their website having been sold."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "Donald Trump",
+  "edge": "Michael Jai White developed a long-term friendship with Donald Trump during his UFC presidency."
+ },
+ {
+  "node_1": "Michael Jai White",
+  "node_2": "UFC 30",
+  "edge": "The first events under Michael Jai White's leadership, UFC 30, and UFC 31, were successfully held in the Trump Taj Mahal."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Donald Trump",
+  "edge": "Dana White has a long-term friendship with Donald Trump."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Zuffa",
+  "edge": "Dana White was a key figure in the UFC's growth under Zuffa's leadership."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Craig Piligian",
+  "edge": "Dana White, Craig Piligian, and Frank Fertitta Jr. developed the idea for The Ultimate Fighter."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "The Ultimate Fighter",
+  "edge": "Dana White was instrumental in creating The Ultimate Fighter, an MMA-based reality series."
+ },
+ {
+  "node_1": "The Ultimate Fighter",
+  "node_2": "Stephan Bonnar",
+  "edge": "The Ultimate Fighter helped launch Stephan Bonnar's career with the finale fight against Forrest Griffin."
+ },
+ {
+  "node_1": "The Ultimate Fighter",
+  "node_2": "Forrest Griffin",
+  "edge": "The Ultimate Fighter's finale fight between Stephan Bonnar and Forrest Griffin is credited with saving the UFC."
+ },
+ {
+  "node_1": "UFC",
+  "node_2": "Chuck Liddell",
+  "edge": "Chuck Liddell headlined UFC 66, which generated over 1,000,000 pay-per-view buys."
+ },
+ {
+  "node_1": "UFC",
+  "node_2": "Tito Ortiz",
+  "edge": "Tito Ortiz co-headlined UFC 66, helping the event achieve record-breaking pay-per-view sales."
+ },
+ {
+  "node_1": "UFC",
+  "node_2": "Conor McGregor",
+  "edge": "Conor McGregor was one of the UFC's main marquee stars in the mid-2010s, alongside Ronda Rousey."
+ },
+ {
+  "node_1": "UFC",
+  "node_2": "Ronda Rousey",
+  "edge": "Ronda Rousey became one of the UFC's main marquee stars in the mid-2010s, alongside Conor McGregor."
+ },
+ {
+  "node_1": "Conor McGregor",
+  "node_2": "Ronda Rousey",
+  "edge": "Ronda Rousey and Conor McGregor accounted for 46 million pay-per-view buys in 2015, 61% of the UFC's total buyrate that year."
+ },
+ {
+  "node_1": "UFC",
+  "node_2": "Dana White",
+  "edge": "Dana White continued as president of the UFC after Zuffa was sold in 2016."
+ },
+ {
+  "node_1": "Zuffa",
+  "node_2": "WMEIMG",
+  "edge": "Zuffa was sold to a consortium of investors led by WMEIMG for $4.025 billion in 2016."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "WMEIMG",
+  "edge": "Dana White was a key stakeholder in WMEIMG's acquisition of the UFC."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "UFC",
+  "edge": "Dana White signed a new 7-year contract to remain president of the UFC in 2019."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "WWE",
+  "edge": "Dana White announced a deal to merge WWE with the UFC in 2023, forming TKO Group Holdings."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "TKO Group Holdings",
+  "edge": "Dana White was given the title of chief executive officer of the UFC in the TKO Group Holdings merger."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Floyd Mayweather Jr.",
+  "edge": "Dana White copromoted Floyd Mayweather Jr.'s fight against Conor McGregor in 2017."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Callum Walsh",
+  "edge": "Dana White promoted a boxing card featuring Irish boxer Callum Walsh in 2024."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "UFC",
+  "edge": "Dana White is the current president of UFC."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "UFC Fight Pass",
+  "edge": "Dana White hosts Dana Whites Contender Series on UFC Fight Pass."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "The Ultimate Surfer",
+  "edge": "Dana White is an executive producer of The Ultimate Surfer television series."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Kelly Slater",
+  "edge": "Dana White co-created The Ultimate Surfer television series with Kelly Slater."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Thrill One Sports Entertainment",
+  "edge": "Dana White is a co-owner of Thrill One Sports Entertainment."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Power Slap",
+  "edge": "Dana White co-founded Power Slap, a slap fighting competition."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Fertitta family",
+  "edge": "Dana White co-founded Power Slap with the Fertitta family."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Anne White",
+  "edge": "Dana White is married to Anne Stella since his youth."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "UFC fight cards",
+  "edge": "Dana White has missed a UFC card only once in 11 years."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Mnires disease",
+  "edge": "Dana White has been diagnosed with Mnires disease and has undergone treatment."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Orthokine treatment",
+  "edge": "Dana White underwent Orthokine treatment for Mnires disease."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Ketogenic diet",
+  "edge": "Dana White follows a ketogenic diet to improve his health."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Frank Fertitta III",
+  "edge": "Dana White bought a mansion from Frank Fertitta III for $195 million."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Pine Island Court",
+  "edge": "Dana White owns several mansions in Pine Island Court, Las Vegas."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Gary Brecka",
+  "edge": "Gary Brecka prescribed a regimen that improved Dana White's sleep apnea and alleviated his leg pain."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Donald Trump",
+  "edge": "Dana White endorsed Donald Trump at the 2016 Republican National Convention and expressed ongoing support for Trump's presidency."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "UFC 30",
+  "edge": "Dana White had the UFC host its first event under Zuffa ownership, UFC 30, at the Trump Taj Mahal, facilitated by Donald Trump."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Trump Taj Mahal",
+  "edge": "Dana White organized the first UFC event at the Trump Taj Mahal."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "2020 Presidential Election",
+  "edge": "Dana White donated $1 million to America First Action, a super political action committee supporting Donald Trump's reelection."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "American economy",
+  "edge": "Dana White joined a group of industry leaders to help the US rebuild its economy hit by the coronavirus pandemic."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "2024 Presidential Election",
+  "edge": "Dana White again endorsed Donald Trump and introduced him at the 2024 Republican National Convention."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Beastie Boys",
+  "edge": "Dana White expressed deep sadness over the death of Adam Yauch, one of the members of his favorite band, the Beastie Boys."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Red Hot Chili Peppers",
+  "edge": "Dana White is a fan of the Red Hot Chili Peppers."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Rage Against the Machine",
+  "edge": "Dana White appreciates the music of Rage Against the Machine."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "New England Patriots",
+  "edge": "Dana White is a fan of the New England Patriots, which he likes because of the team's leadership and style."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Tom Brady",
+  "edge": "Dana White admires Tom Brady, the former quarterback of the New England Patriots."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Rob Gronkowski",
+  "edge": "Dana White worked with Rob Gronkowski to negotiate a deal for Tom Brady to join the Las Vegas Raiders, but the deal ultimately fell through."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Brazilian jiujitsu",
+  "edge": "Dana White has been training in Brazilian jiujitsu since 1998 and found it helpful in improving his skills and confidence."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Rick Harrison",
+  "edge": "Dana White purchased around $60,000 worth of katana swords from Rick Harrison on the History Channel show Pawn Stars."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Las Vegas casinos",
+  "edge": "Dana White plays high-stakes blackjack and claims to wager up to $75,000 per hand at certain casinos in Las Vegas."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "High-stakes baccarat",
+  "edge": "Dana White wagers up to $350,000 per hand when playing high-stakes baccarat at Caesars Palace."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Caesars Palace",
+  "edge": "Dana White plays high-stakes baccarat at Caesars Palace and has lost up to $8 million in one night."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Caesars Palace",
+  "edge": "Dana White has a history of playing high-stakes poker at Caesars Palace, claiming to have lost $8 million in one night."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "January to March 2024",
+  "edge": "Dana White won $26 million at Caesars Palace from January to March 2024."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "1 million per hand",
+  "edge": "Dana White has a goal to play $1 million per hand at a casino before he dies."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "New Year's Eve",
+  "edge": "Dana White was involved in a physical altercation with his wife, Anne, at a New Year's Eve party in Cabo San Lucas, Mexico, in 2022."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Anne White",
+  "edge": "Dana White and his wife, Anne, got into a physical altercation on New Year's Eve and apologized for their actions, citing too much alcohol consumption."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "UFC",
+  "edge": "Dana White is the president of UFC, a position which has been criticized after his altercation with his wife."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "California Legislative Women's Caucus",
+  "edge": "The California Legislative Women's Caucus requested that Dana White be removed from his role at UFC due to his altercation with his wife."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Ari Emanuel",
+  "edge": "The California Legislative Women's Caucus sent a letter to Ari Emanuel, CEO of Endeavor, the company that owns UFC, requesting that Dana White be removed from his role."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Tuptim Jadnooleum",
+  "edge": "Dana White donated $50,000 for a liver transplant for Tuptim Jadnooleum, the daughter of Kru Nai Rattanachai, an instructor at Tiger Muay Thai and MMA in Phuket, Thailand."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Tiger Muay Thai and MMA",
+  "edge": "Dana White donated $50,000 for a liver transplant for the daughter of an instructor at Tiger Muay Thai and MMA in Phuket, Thailand."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "$100,000",
+  "edge": "Dana White donated $100,000 to his former high school to fund renovations to their athletic facilities."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Las Vegas",
+  "edge": "Dana White donated $1,000,000 to victims of the Las Vegas shooting in 2017."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "UFC 242",
+  "edge": "Dana White followed by donating $100,000 to Khabib Nurmagomedov's charity and then to Dustin Poirier's charity."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Khabib Nurmagomedov",
+  "edge": "Dana White donated $100,000 to Khabib Nurmagomedov's charity after UFC 242."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Dustin Poirier",
+  "edge": "Dana White donated $100,000 to Dustin Poirier's charity after UFC 242."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "July 13, 2024",
+  "edge": "Dana White donated $50,000 towards supporting the victims affected by the attempted assassination of former President Donald J. Trump during a rally on July 13, 2024."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Award",
+  "edge": "Dana White has received multiple awards, including the Armed Forces Foundation Patriot Award, World MMA Awards Leading Man of the Year, and Wrestling Observer Newsletter Promoter of the Year."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "UFC",
+  "edge": "Dana White has been recognized for his role as the president of UFC, a position that has been controversial due to his altercation with his wife."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Lorenzo Fertitta",
+  "edge": "Lorenzo Fertitta helped Dana White build the UFC into something big."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Donald Trump",
+  "edge": "Dana White mentioned talking about Alcoholic Dad Donald Trump with others."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "John McCain",
+  "edge": "Dana White mentioned John McCain in a conversation about his alcoholic father."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "MMA and boxing",
+  "edge": "Dana White was a notable figure in the driving forces behind UFC and boxing."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Fertitta family",
+  "edge": "Dana White worked closely with the Fertitta family, who managed Vegas club scene."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "WME IMG",
+  "edge": "Dana White sold UFC to WME IMG and continued running the company."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Ronda Rousey",
+  "edge": "Dana White discussed Ronda Rousey's success in breaking barriers for women in UFC."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "The Ultimate Fighter",
+  "edge": "Dana White was instrumental in The Ultimate Fighter saving the UFC."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "The UFC",
+  "edge": "Dana White was the President of the UFC and helped build it into something big."
+ },
+ {
+  "node_1": "Dana White",
+  "node_2": "Boston",
+  "edge": "Dana White had a Boston homecoming showing his rapid rise as head of the UFC."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Amazon",
+  "edge": "Jeff Bezos founded Amazon and served as its CEO."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Blue Origin",
+  "edge": "Jeff Bezos founded Blue Origin to focus on space exploration."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "SpaceX",
+  "edge": "Jeff Bezos is a competitor of SpaceX in the space exploration industry."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella became the CEO of Microsoft in 2014."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "United States",
+  "edge": "Satya Nadella moved to the United States right when Sachin Tendulkar started playing for India."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "MIT",
+  "edge": "Satya Nadella attended MIT, which costs less than $6000 a year."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Sachin Tendulkar",
+  "edge": "Satya Nadella missed the entire Sachin era of Indian cricket."
+ }
+]
