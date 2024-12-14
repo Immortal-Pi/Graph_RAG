@@ -1,0 +1,3537 @@
+[
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX in 2002 to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla Inc",
+  "edge": "Elon Musk was an early investor in Tesla Inc and became its chairman."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "X Corp",
+  "edge": "Elon Musk is the founder of X Corp, which operates the social media platform X formerly Twitter."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Neuralink",
+  "edge": "Elon Musk is the founder of Neuralink, a neurotechnology company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "OpenAI",
+  "edge": "Elon Musk is a founder of OpenAI, an artificial intelligence research company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Compaq",
+  "edge": "Elon Musk co-founded Zip2, which was acquired by Compaq for 307 million in 1999."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "eBay",
+  "edge": "Elon Musk sold Zip2 to eBay for 15 billion in 2002."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk co-founded Tesla and became its CEO."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SolarCity",
+  "edge": "Elon Musk co-founded SolarCity, which later became Tesla Energy."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "OpenAI",
+  "edge": "Elon Musk co-founded OpenAI, a nonprofit AI research company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Neuralink",
+  "edge": "Elon Musk founded Neuralink, a neurotechnology company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "The Boring Company",
+  "edge": "Elon Musk founded The Boring Company, a tunnel construction company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Twitter",
+  "edge": "Elon Musk acquired Twitter for 44 billion and became the owner."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "X",
+  "edge": "Elon Musk merged Twitter into X Corp. and rebranded it as X."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "American politics",
+  "edge": "Elon Musk became active in American politics as a vocal and financial supporter of Donald Trump."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Pretoria City Council",
+  "edge": "Elon Musk was elected to the Pretoria City Council."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Progressive Party",
+  "edge": "Elon Musk was a representative of the Progressive Party."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Joshua N Haldeman",
+  "edge": "Elon Musk's maternal grandfather was Joshua N Haldeman."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Bryanston High School",
+  "edge": "Elon Musk attended Bryanston High School."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Fellow Pupil",
+  "edge": "Elon Musk was beaten by a fellow pupil in a school altercation."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Errol",
+  "edge": "Elon Musk lived primarily with his father after his parents divorced."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Private School",
+  "edge": "Elon Musk was enrolled in private school after the altercation."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "The Lord of the Rings",
+  "edge": "Elon Musk was influenced by books like The Lord of the Rings."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "University of Pretoria",
+  "edge": "Elon Musk attended the University of Pretoria for five months."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Queens University",
+  "edge": "Elon Musk briefly attended Queens University."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Xcom",
+  "edge": "Elon Musk founded Xcom, an online bank."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Confinity",
+  "edge": "Elon Musk merged Xcom with Confinity to avoid competition."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Peter Thiel",
+  "edge": "Elon Musk was ousted as CEO of Confinity by Peter Thiel."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "PayPal",
+  "edge": "Elon Musk received 176 million shares in PayPal when it was acquired by eBay in 2002."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Mars Society",
+  "edge": "Elon Musk became involved with the Mars Society and discussed funding plans to place a growth chamber for plants on Mars."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to build affordable rockets."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "SpaceX",
+  "node_2": "International Space Station",
+  "edge": "SpaceX has received a contract to deliver cargo and astronauts to the International Space Station."
+ },
+ {
+  "node_1": "SpaceX",
+  "node_2": "Falcon 9",
+  "edge": "SpaceX successfully landed the first stage of the Falcon 9 rocket."
+ },
+ {
+  "node_1": "SpaceX",
+  "node_2": "Starlink",
+  "edge": "SpaceX developed the Starlink constellation to provide satellite internet access."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Ukraine",
+  "edge": "Elon Musk provided Ukraine with Starlink terminals and free data to ensure internet access during the Russian invasion."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk founded Tesla Inc., an electric vehicle and clean energy company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla Inc.",
+  "edge": "Elon Musk founded Tesla Inc. to revolutionize space exploration."
+ },
+ {
+  "node_1": "Martin Eberhard",
+  "node_2": "Tesla Inc.",
+  "edge": "Martin Eberhard was co-founder and played a role in Tesla's early development."
+ },
+ {
+  "node_1": "Marc Tarpenning",
+  "node_2": "Tesla Inc.",
+  "edge": "Marc Tarpenning was co-founder and played a role in Tesla's early development."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Series A investors",
+  "edge": "Elon Musk invested in the Series A round of investment in 2004."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla Inc.",
+  "edge": "Elon Musk became the majority shareholder and joined Tesla's board of directors."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla Inc.",
+  "edge": "Elon Musk took an active role in product design but was not deeply involved in day-to-day business operations."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Martin Eberhard",
+  "edge": "A 2009 lawsuit settlement designated Elon Musk as a Tesla cofounder."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla Inc.",
+  "edge": "Elon Musk was the longest-tenured CEO of any automotive manufacturer globally in 2019."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla Inc.",
+  "edge": "Elon Musk changed his title to Technoking while retaining his position as CEO in 2021."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Indian Prime Minister",
+  "edge": "Met to discuss investment opportunities in India."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SEC",
+  "edge": "Sued for a misleading tweet about Tesla funding plans."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla Shareholders",
+  "edge": "Sued over the misleading tweet about Tesla funding plans."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SEC",
+  "edge": "Settled a dispute regarding Musk's tweet about Tesla funding plans."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SolarCity",
+  "edge": "Provided initial concept and funding for the company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Panasonic",
+  "edge": "Partnered with Panasonic to build a solar panel factory in Buffalo, New York."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla Employees",
+  "edge": "Merged SolarCity with Tesla Energy unit, leading to job losses."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Neuralink",
+  "edge": "Developed and demonstrated a device to control brain implants."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Neuralink",
+  "edge": "Elon Musk cofounded Neuralink in 2016."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Neuralink device",
+  "edge": "Musk announced a device that can embed threads into the human brain in 2019."
+ },
+ {
+  "node_1": "Neuralink",
+  "node_2": "Animal testing",
+  "edge": "Neuralink has conducted animal testing on macaque monkeys, leading to controversies."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "The Boring Company",
+  "edge": "Musk founded The Boring Company in 2017 to construct tunnels."
+ },
+ {
+  "node_1": "The Boring Company",
+  "node_2": "Tunnels",
+  "edge": "The company constructs underground tunnels to address traffic congestion."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Twitter",
+  "edge": "Elon Musk completed the acquisition of Twitter in October 2022."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Musk used his Tesla stock as collateral for a 44 billion dollar loan to fund his acquisition of Twitter."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Vijaya Gaddes",
+  "edge": "Musk criticized Twitter executive Vijaya Gaddes' policies, leading to online harassment."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Twitter Board",
+  "edge": "Musk terminated his agreement to acquire Twitter after claiming that 5% of its daily users were spam accounts."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Twitter",
+  "edge": "Elon Musk acquired Twitter and made significant changes to its moderation policies."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Media Matters",
+  "edge": "Elon Musk accused Media Matters of manipulating the Twitter platform through account targeting."
+ },
+ {
+  "node_1": "Twitter",
+  "node_2": "Extremists",
+  "edge": "Twitter experienced an increase in hate speech following Elon Musk's takeover."
+ },
+ {
+  "node_1": "Musk",
+  "node_2": "Investors",
+  "edge": "Musk's acquisition of Twitter has resulted in a significant loss in market value for investors."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Micromanagement",
+  "edge": "Musk is known for his micromanagement style and his aggressive approach to project management."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk founded Tesla to revolutionize the automotive industry."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Musk Foundation",
+  "edge": "Elon Musk founded the Musk Foundation to support scientific research and education."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "OpenAI",
+  "edge": "The Musk Foundation donated heavily to the non-profit OpenAI."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "OpenAI",
+  "edge": "Musk cofounded OpenAI in 2015 to promote safe and beneficial AI development."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Musk founded SpaceX in 2002 to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "xAI",
+  "edge": "Musk founded xAI in 2023 to develop a generative AI program."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Thai cave rescue",
+  "edge": "Musk facilitated the construction of a mini-submarine to assist in the rescue of children trapped in a flooded cave in Thailand."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "OpenAI board",
+  "edge": "Musk resigned from the OpenAI board in 2018 to avoid potential conflicts of interest with his other ventures."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Musk is CEO of Tesla and has increasing involvement in AI through Tesla Autopilot."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "CNN",
+  "edge": "Elon Musk criticized CNN for criticizing his submarine proposal."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Sheryl Sandberg",
+  "edge": "Elon Musk and Sheryl Sandberg previously worked closely together at Facebook."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Blue Origin",
+  "edge": "Jeff Bezos founded Blue Origin to focus on space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Unsworth",
+  "edge": "Elon Musk insulted Unsworth on Twitter and called him a child rapist."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Federal Government",
+  "edge": "Elon Musk was required to undergo random drug tests following a previous incident involving cannabis."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk uses a private jet owned by SpaceX."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "ElonJet",
+  "edge": "Elon Musk banned the ElonJet account on Twitter after it tracked his private jet flights."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Neuralink",
+  "edge": "Elon Musk founded Neuralink to revolutionize brain-computer interfaces."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk co-founded Tesla to promote electric vehicles and sustainable transportation."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Austin, Texas",
+  "edge": "Elon Musk acquired land in Austin, Texas, to establish a company town called Snailbrook."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Grimes",
+  "edge": "Elon Musk was previously in a relationship with Grimes, who was involved in planning the town of Snailbrook."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Inc.",
+  "edge": "Steve Jobs co-founded Apple Inc., a leading tech company."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Sheryl Sandberg",
+  "edge": "Sheryl Sandberg worked closely with Mark Zuckerberg as COO of Facebook."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Blue Origin",
+  "edge": "Jeff Bezos founded Blue Origin to focus on space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Twitter",
+  "edge": "Elon Musk acquired and renamed Twitter to promote free speech and discussions."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Government",
+  "edge": "Elon Musk criticizes government subsidies but suggests carbon taxes to reduce environmental impact."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Short Selling",
+  "edge": "Elon Musk opposes short selling, arguing it is harmful to companies and markets."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk sold 36 billion shares of Tesla in December 2022."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Cryptocurrencies",
+  "edge": "Elon Musk has promoted cryptocurrencies and supports them over traditional currencies."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Government",
+  "edge": "Elon Musk has criticized government regulations on cryptocurrencies."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Public Transport",
+  "edge": "Elon Musk has criticized public transport and promoted individualized transport."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "AI",
+  "edge": "Elon Musk has expressed concerns about the existential threat of artificial intelligence."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Climate Change",
+  "edge": "Elon Musk has described climate change as one of the greatest threats to humanity."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Climate Change",
+  "edge": "Musk has advocated for addressing climate change and promoting renewable energy sources."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Mars Colonization",
+  "edge": "Musk has proposed plans to colonize Mars and develop a multiplanetary civilization."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "US Politics",
+  "edge": "Musk has become involved in US politics, supporting former President Trump and expressing right-wing views."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Blue Origin",
+  "edge": "Jeff Bezos founded Blue Origin to focus on space exploration."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": " Sheryl Sandberg",
+  "edge": " Sheryl Sandberg worked closely with Mark Zuckerberg as COO of Facebook."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Inc.",
+  "edge": "Steve Jobs co-founded Apple Inc., a leading tech company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "X",
+  "edge": "Elon Musk used X to spread disinformation and election conspiracy theories."
+ },
+ {
+  "node_1": "Musk",
+  "node_2": "Federal Emergency Management Agency",
+  "edge": "Musk repeatedly used X to promote the claim that Democrats had been importing immigrants to vote."
+ },
+ {
+  "node_1": "Brad Raffensperger",
+  "node_2": "X",
+  "edge": "Georgia Secretary of State Brad Raffensperger requested that X remove a fabricated video from the platform."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Blue Origin",
+  "edge": "Jeff Bezos founded Blue Origin to focus on space exploration."
+ },
+ {
+  "node_1": "Musk",
+  "node_2": "America PAC",
+  "edge": "Musk created and donated an unknown sum to the pro-Trump America PAC."
+ },
+ {
+  "node_1": "America PAC",
+  "node_2": "Trump",
+  "edge": "The PAC spent approximately 72 million to support Trump's campaign."
+ },
+ {
+  "node_1": "Musk",
+  "node_2": "Department of Justice",
+  "edge": "The Department of Justice warned Musk that his America PAC's sweepstakes might violate campaign finance laws."
+ },
+ {
+  "node_1": "Musk",
+  "node_2": "Recipients",
+  "edge": "Musk awarded two people $1 million each as compensation for the sweepstakes."
+ },
+ {
+  "node_1": "Musk",
+  "node_2": "Citizens for Sanity",
+  "edge": "Musk provided over $50 million in 2022 to fund Citizens for Sanity, a group aligned with former Trump advisor Steven Miller."
+ },
+ {
+  "node_1": "Musk",
+  "node_2": "Fair Election Fund",
+  "edge": "Musk promoted the Fair Election Fund, which is funded by an organization linked to Trump."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Department of Government Efficiency",
+  "edge": "Elon Musk was appointed as the inaugural leader of the Department of Government Efficiency."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Twitter",
+  "edge": "Elon Musk purchased Twitter and became its owner."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "George Soros",
+  "edge": "Elon Musk promoted conspiracy theories about George Soros."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "AntiDefamation League",
+  "edge": "Elon Musk criticized the AntiDefamation League."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Advertisers",
+  "edge": "Elon Musk had several advertisers withdraw their advertising from Twitter."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Andrew Ross Sorkin",
+  "edge": "Elon Musk had a heated exchange with journalist Andrew Ross Sorkin at a conference."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Antisemitism",
+  "edge": "Musk discussed the spread of antisemitism on Twitter."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Auschwitz concentration camp",
+  "edge": "Musk visited the Auschwitz concentration camp with Jewish leaders."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "COVID-19 misinformation",
+  "edge": "Musk spread misinformation about COVID-19 and its effects."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Lockdown opposition",
+  "edge": "Musk opposed and defied COVID-19 lockdowns in California."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Relationship with Anthony Fauci",
+  "edge": "Musk criticized and publicly clashed with former NIAID director Anthony Fauci."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "COVID-19 vaccine refusal",
+  "edge": "Musk declined to get vaccinated, claiming unnecessary risk for himself and his children."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Interns",
+  "edge": "Elon Musk had a romantic relationship with a former intern at SpaceX."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Employees",
+  "edge": "Elon Musk engaged in sexual harassment towards several SpaceX employees."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Advertisers",
+  "edge": "Elon Musk faced a boycott from advertisers following controversial statements."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Imane Khelif",
+  "edge": "Imane Khelif accused Elon Musk of cyber harassment."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "America PAC",
+  "edge": "Elon Musk's America PAC was involved in an unlawful lottery."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Issacson",
+  "edge": "Issacson wrote a biography about Musk."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Jeff Bezos",
+  "edge": "Musk and Bezos are rivals in the space exploration industry."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Apple Inc.",
+  "edge": "Musk dreamed of working at Apple Inc. as a teenager."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Sheryl Sandberg",
+  "edge": "Musk and Sandberg were colleagues at Facebook."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Blue Origin",
+  "edge": "Musk founded Blue Origin to focus on space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "CNBC",
+  "edge": "Musk appeared on CNBC to discuss his book series."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": " Judith Haccou",
+  "edge": "Musk received a document from Stanford University indicating that his admission was special."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Stanford University",
+  "edge": "Musk applied and was admitted to the graduate program in Material Science Engineering in 1995 but did not enroll."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Penn",
+  "edge": "Musk received a dual degree in economics and physics from Penn in 1997."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Airbnb",
+  "edge": "Musk worked illegally as an early employee at Airbnb."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "PayPal",
+  "edge": "Musk was an early investor in PayPal."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Zip2",
+  "edge": "Musk founded Zip2 with his brother Kimbal."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Kimbal Musk",
+  "edge": "Musk founded Zip2 with his brother Kimbal."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Inc.",
+  "edge": "Steve Jobs co-founded Apple Inc., a leading tech company."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Sheryl Sandberg",
+  "edge": "Sheryl Sandberg worked closely with Mark Zuckerberg as COO of Facebook."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Blue Origin",
+  "edge": "Jeff Bezos founded Blue Origin to focus on space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla Motors",
+  "edge": "Elon Musk was a founder of Tesla Motors."
+ },
+ {
+  "node_1": "Martin Eberhard",
+  "node_2": "Tesla Motors",
+  "edge": "Martin Eberhard was a founder of Tesla Motors."
+ },
+ {
+  "node_1": "Mark Tarpenning",
+  "node_2": "Tesla Motors",
+  "edge": "Mark Tarpenning was a founder of Tesla Motors."
+ },
+ {
+  "node_1": "Ian Wright Royse",
+  "node_2": "Tesla Motors",
+  "edge": "Ian Wright Royse was a founder of Tesla Motors."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk has been the CEO of Tesla since 2008."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk founded Tesla to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Cybertruck",
+  "edge": "Elon Musk bought a 1 million dollar James Bond sports car that inspired the Tesla Cybertruck."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SP 500",
+  "edge": "Elon Musk's Tesla stock joined the SP 500 index in 2020."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Optimus",
+  "edge": "Elon Musk unveiled the Tesla robot Optimus."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SEC",
+  "edge": "The SEC sued Elon Musk for fraud in 2020."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Twitter",
+  "edge": "Elon Musk acquired Twitter and claimed to promote free speech."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Far-right users",
+  "edge": "Musk enabled far-right users, sparking debates about censorship."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "FBI",
+  "edge": "Musk accused the FBI of suppressing stories critical of him, but this claim was later disputed."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Twitter employees",
+  "edge": "Musk clashed with Twitter employees over content moderation policies."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Company leadership",
+  "edge": "Musk stepped down as Twitter CEO but remains involved in the company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Financial investors",
+  "edge": "Musk has struggled to secure funding for his ventures, leading to financial concerns."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk founded Tesla to disrupt the automotive industry."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Twitter",
+  "edge": "Elon Musk acquired Twitter to enhance social media communication."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": " Sheryl Sandberg",
+  "edge": " Sheryl Sandberg worked closely with Mark Zuckerberg as COO of Facebook."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Blue Origin",
+  "edge": "Jeff Bezos founded Blue Origin to focus on space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Investors",
+  "edge": "Elon Musk has lost billions in value from investor perspectives."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Workers",
+  "edge": "Elon Musk has faced criticism for his management style and workforce treatment."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk founded Tesla to accelerate the transition to sustainable transportation."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "OpenAI",
+  "edge": "Elon Musk established OpenAI to advance the development of safe and beneficial AI technology."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Foundation",
+  "edge": "Elon Musk founded the Musk Foundation to support renewable energy initiatives."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "XPrize",
+  "edge": "Elon Musk funded the XPrize to encourage innovation in carbon removal technologies."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Hyperloop",
+  "edge": "Elon Musk conceived of the Hyperloop, a high-speed transportation system powered by renewable energy."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg co-founded Facebook, a social networking platform."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Meta Platforms",
+  "edge": "Mark Zuckerberg co-founded Meta Platforms, the parent company of Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Chan Zuckerberg Initiative",
+  "edge": "Mark Zuckerberg is the co-founder and co-CEO of the Chan Zuckerberg Initiative."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Harvard University",
+  "edge": "Mark Zuckerberg dropped out of Harvard University to focus on Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Priscilla Chan",
+  "edge": "Mark Zuckerberg is married to Priscilla Chan."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Randi Zuckerberg",
+  "edge": "Mark Zuckerberg has a sister named Randi Zuckerberg."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Donna Zuckerberg",
+  "edge": "Mark Zuckerberg also has a sister named Donna Zuckerberg."
+ },
+ {
+  "node_1": "Meta Platforms",
+  "node_2": "Instagram",
+  "edge": "Meta Platforms owns Instagram, a social media platform."
+ },
+ {
+  "node_1": "Meta Platforms",
+  "node_2": "WhatsApp",
+  "edge": "Meta Platforms owns WhatsApp, a messaging platform."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Meta Platforms",
+  "edge": "Mark Zuckerberg is the founder and CEO of Meta Platforms, which owns Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg founded Facebook in 2004 with his classmates."
+ },
+ {
+  "node_1": "Sheryl Sandberg",
+  "node_2": "Facebook",
+  "edge": "Sheryl Sandberg was COO of Facebook for many years."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Chan Zuckerberg Initiative",
+  "edge": "Mark Zuckerberg established the Chan Zuckerberg Initiative, a philanthropic organization."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "The Social Network",
+  "edge": "The Social Network is a film about Mark Zuckerberg's early life and founding of Facebook."
+ },
+ {
+  "node_1": "Andrew McCollum",
+  "node_2": "Facebook",
+  "edge": "Andrew McCollum was one of the founders of Facebook."
+ },
+ {
+  "node_1": "Eduardo Saverin",
+  "node_2": "Facebook",
+  "edge": "Eduardo Saverin was one of the founders of Facebook."
+ },
+ {
+  "node_1": "Dustin Moskovitz",
+  "node_2": "Facebook",
+  "edge": "Dustin Moskovitz was one of the founders of Facebook."
+ },
+ {
+  "node_1": "Chris Hughes",
+  "node_2": "Facebook",
+  "edge": "Chris Hughes was one of the founders of Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg founded Facebook in partnership with his roommates."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Harvard University",
+  "edge": "Mark Zuckerberg studied computer science and psychology at Harvard University."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Cameron Winklevoss",
+  "edge": "Cameron Winklevoss accused Mark Zuckerberg of misleading him about building a social network."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Edward Saverin",
+  "edge": "Mark Zuckerberg partnered with Edward Saverin to launch Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Andrew McCollum",
+  "edge": "Mark Zuckerberg partnered with Andrew McCollum to launch Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Dustin Moskovitz",
+  "edge": "Mark Zuckerberg partnered with Dustin Moskovitz to launch Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Chris Hughes",
+  "edge": "Mark Zuckerberg partnered with Chris Hughes to launch Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Phillips Exeter Academy",
+  "edge": "Mark Zuckerberg was inspired by the student directory of Phillips Exeter Academy."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg founded Facebook to create an open information flow."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Dustin Moskovitz",
+  "edge": "Mark Zuckerberg and Dustin Moskovitz co-founded Facebook together."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Peter Thiel",
+  "edge": "Mark Zuckerberg received investment from Peter Thiel in the early stages of Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Peter Currie",
+  "edge": "Mark Zuckerberg consulted with Peter Currie regarding Facebook's financing strategies."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Steven Levy",
+  "edge": "Steven Levy wrote a book suggesting Zuckerberg considers himself a hacker."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "MIT Technology Review",
+  "edge": "Mark Zuckerberg was listed on MIT Technology Review's TR35 list in 2007."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Vanity Fair",
+  "edge": "Vanity Fair named Mark Zuckerberg as the most influential person in the Information Age in 2010."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "New Statesman",
+  "edge": "New Statesman ranked Mark Zuckerberg 16th on their list of the most influential figures in 2010."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Steve Jobs",
+  "edge": "Mark Zuckerberg sought advice from Steve Jobs on building a management team at Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Dmitry Medvedev",
+  "edge": "Mark Zuckerberg met with Russian Prime Minister Dmitry Medvedev in 2012 to discuss social media innovation in Russia."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook Users",
+  "edge": "85 million American Facebook users were exposed to the Home promotional campaign in 2013."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Web Developer",
+  "edge": "Mark Zuckerberg's Facebook profile was hacked by an unemployed web developer in 2013."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Internet.org",
+  "edge": "Mark Zuckerberg is working to connect the 5 billion people without internet access through the Internet.org project."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Mobile World Congress",
+  "edge": "Mark Zuckerberg was the keynote speaker at the 2014 Mobile World Congress."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Other Tech Figures",
+  "edge": "Mark Zuckerberg hosted Chinese politician Lu with other American technology figures."
+ },
+ {
+  "node_1": "Tim Cook",
+  "node_2": "Apple Inc.",
+  "edge": "Tim Cook is the current CEO of Apple Inc."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Facebook",
+  "edge": "Jeff Bezos was not involved in the founding of Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Tsinghua University",
+  "edge": "Mark Zuckerberg visited Tsinghua University in 2014 to speak to students."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook employees",
+  "edge": "Mark Zuckerberg held a QA session with Facebook employees in 2014."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "World Economic Forum",
+  "edge": "Mark Zuckerberg attended the World Economic Forum in 2009."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Internetorg",
+  "edge": "Mark Zuckerberg founded Internetorg in 2013 to provide internet access to underserved regions."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Breakthrough Starshot",
+  "edge": "Mark Zuckerberg co-founded Breakthrough Starshot, a project to develop a solar sail spacecraft."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Cameron Winklevoss",
+  "edge": "Mark Zuckerberg was sued by Cameron Winklevoss and Tyler Winklevoss for allegedly misleading them about his plans for Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Eduardo Saverin",
+  "edge": "Eduardo Saverin sued Mark Zuckerberg for allegedly misspending company funds."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Pakistan",
+  "edge": "Pakistan launched a criminal investigation into Mark Zuckerberg and Facebook over a controversial \"Draw Muhammad\" contest."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Paul Ceglia",
+  "edge": "Paul Ceglia claimed that Mark Zuckerberg owed him 84% ownership of Facebook and sued him for monetary damages."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Ceglia",
+  "edge": "Mark Zuckerberg was sued by Ceglia for allegedly defrauding him of billions of dollars."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Hawaiian land",
+  "edge": "Mark Zuckerberg purchased 700 acres of land on the Hawaiian island of Kauai."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "US Senate Committee",
+  "edge": "Mark Zuckerberg testified before the US Senate Committee regarding the usage of personal data by Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "US Republican Party",
+  "edge": "US Republicans argued that Section 230 of the Communications Act unfairly protects social media companies."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "House Energy and Commerce Committee",
+  "edge": "Mark Zuckerberg testified before the House Energy and Commerce Committee regarding Facebook's role in the spread of misinformation and hate speech."
+ },
+ {
+  "node_1": "Facebook",
+  "node_2": "Cambridge Analytica",
+  "edge": "Facebook was involved in the Cambridge Analytica data scandal involving the misuse of user data."
+ },
+ {
+  "node_1": "Facebook",
+  "node_2": "US Capitol Building",
+  "edge": "Facebook was accused of facilitating the spread of misinformation and hate speech leading up to the January 6th attack."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Meta",
+  "edge": "Mark Zuckerberg founded Meta and played a key role in shaping its policies and practices."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Congress",
+  "edge": "Mark Zuckerberg appeared before Congress to discuss the role of tech companies in shaping public discourse and protecting user privacy."
+ },
+ {
+  "node_1": "Meta",
+  "node_2": "Mental Health",
+  "edge": "Meta faced criticism for its handling of teenage mental health issues on its platforms."
+ },
+ {
+  "node_1": "Meta",
+  "node_2": "Government Regulations",
+  "edge": "Meta has faced scrutiny and potential regulation regarding its influence and data practices."
+ },
+ {
+  "node_1": "The Social Network",
+  "node_2": "Mark Zuckerberg",
+  "edge": "The Social Network was a movie based on Zuckerberg's founding of Facebook."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Public Perception",
+  "edge": "Mark Zuckerberg has attempted to shape his public image and perception."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Jesse Eisenberg",
+  "edge": "Made a surprise guest appearance on SNL together."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Film",
+  "edge": "Disputed the portrayal in the movie as inaccurate and sarcastic."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Elite Clubs",
+  "edge": "Claimed he had no interest in joining them."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Nelson",
+  "edge": "Was lampooned on Saturday Night Live."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Privacy",
+  "edge": "Was awarded a Medal of Fear for valuing his privacy."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Documentary",
+  "edge": "Appears in the documentary 'Terms and Conditions May Apply.'"
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "South Park Episode",
+  "edge": "Was mocked in the South Park episode 'Franchise Prequel.'"
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Chan Zuckerberg Initiative",
+  "edge": "Founded the Chan Zuckerberg Initiative."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "StartupEducation foundation",
+  "edge": "Founded the StartupEducation foundation."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Newark Public Schools",
+  "edge": "Donated 100 million to Newark Public Schools."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "The Giving Pledge",
+  "edge": "Joined The Giving Pledge to donate half of their wealth to charity."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Silicon Valley Community Foundation",
+  "edge": "Donated 18 million Facebook shares to the Silicon Valley Community Foundation."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "San Francisco General Hospital and Trauma Center",
+  "edge": "Endowed the foundation of the San Francisco General Hospital with 75 million."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Chan Zuckerberg Initiative",
+  "edge": "Pledged to transfer 99 Facebook shares to the Chan Zuckerberg Initiative."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Chan Zuckerberg Initiative",
+  "edge": "They established the Chan Zuckerberg Initiative to make donations over time."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Chan Zuckerberg Biohub",
+  "edge": "He co-founded the Chan Zuckerberg Biohub to foster research collaboration."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Bill and Melinda Gates Foundation",
+  "edge": "He donated 25 million to support COVID-19 treatment research through their foundation."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Local Journalism",
+  "edge": "He provided 25 million in grants to aid local news organizations affected by the pandemic."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Chris Christie",
+  "edge": "He hosted a fundraiser for New Jersey Governor Chris Christie to support education reform."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Cory Booker",
+  "edge": "He hosted a fundraiser for New Jersey Mayor Cory Booker during his Senate campaign."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Newark Public Schools",
+  "edge": "He pledged 100 million for Newark Public Schools through the state's education program."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Silicon Valley Community Foundation",
+  "edge": "Donated 18 million shares to support education initiatives."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Founded a lobbying group (FWDus) to advocate for political causes."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Oil & Gas Industry",
+  "edge": "Funding of ads supporting fossil fuel development sparked controversy."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Undocumented Immigrants",
+  "edge": "Affirmed commitment to treating undocumented immigrants fairly."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook Employees",
+  "edge": "Led employees in a Pride Parade float to support LGBTQ+ community."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "US Government",
+  "edge": "Criticsized the government's handling of the PRISM scandal."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Muslims",
+  "edge": "Expressly supported Muslim community in the aftermath of major attacks."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Priscilla Chan",
+  "edge": "Mark Zuckerberg began dating Priscilla Chan in 2003."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Palo Alto",
+  "edge": "Mark Zuckerberg moved to Palo Alto in 2010."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg founded Facebook in 2004."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Daniel Arsham",
+  "edge": "Mark Zuckerberg commissioned Daniel Arsham to create a sculpture of his wife."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Forbes",
+  "edge": "Mark Zuckerberg was ranked among the most powerful people in the world by Forbes in 2016 and 2019."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Climate Change",
+  "edge": "Mark Zuckerberg advocated for action to address climate change in 2017."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Atheism",
+  "edge": "Mark Zuckerberg identified as an atheist in adulthood."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Mother Emanuel Church",
+  "edge": "Mark Zuckerberg spoke at Mother Emanuel Church in 2017 after a shooting took place there in 2015."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook Inc.",
+  "edge": "Mark Zuckerberg founded Facebook Inc., a social networking giant."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "MIT Technology Review",
+  "edge": "Mark Zuckerberg was recognized as one of the 2007 Young Innovators Under 35 by MIT Technology Review."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Jobs",
+  "edge": "Mark Zuckerberg sought advice from Steve Jobs on company focus and management."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Peter Currie",
+  "edge": "Mark Zuckerberg appointed Peter Currie as an advisor to handle financial matters following the departure of the CFO."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Russia",
+  "edge": "Russia called on Facebook to open a research center in the country."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "FWDus",
+  "edge": "Mark Zuckerberg founded FWDus, a political advocacy group."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "TechCrunch",
+  "edge": "Mark Zuckerberg was featured in multiple articles on TechCrunch."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "The Washington Post",
+  "edge": "Mark Zuckerberg was discussed in an article regarding immigration and the knowledge economy."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook employees",
+  "edge": "Mark Zuckerberg led 700 Facebook employees in support of LGBTQ+ rights."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Muslims",
+  "edge": "Mark Zuckerberg expressed support for Muslim rights on Facebook following a period of increased online hate speech."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg founded Facebook to connect people worldwide."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "White House",
+  "edge": "Mark Zuckerberg claims the White House pressured Facebook to censor COVID-19 content."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Priscilla Chan",
+  "edge": "Mark Zuckerberg married Priscilla Chan in 2010."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "China",
+  "edge": "Mark Zuckerberg learned Chinese in the morning."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Daughter",
+  "edge": "Mark Zuckerberg and his wife revealed their daughter's Chinese name is Chen Mingyu."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Priscilla Chan",
+  "edge": "Mark Zuckerberg and Priscilla Chan are a married couple."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook Inc.",
+  "edge": "Mark Zuckerberg founded Facebook Inc."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Max Zuckerberg",
+  "edge": "Mark Zuckerberg is the father of Max Zuckerberg."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Beast",
+  "edge": "Mark Zuckerberg has a dog named Beast."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Silicon Valley",
+  "edge": "Mark Zuckerberg is a prominent figure in Silicon Valley."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Forbes",
+  "edge": "Mark Zuckerberg is one of the wealthiest individuals according to Forbes."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Religion",
+  "edge": "Mark Zuckerberg has recently expressed belief in religion."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg founded Facebook in 2004."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Brazilian Jiu-Jitsu",
+  "edge": "Mark Zuckerberg competes in and wins a BJJ tournament."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Blue Belt",
+  "edge": "Mark Zuckerberg was promoted to BJJ blue belt."
+ },
+ {
+  "node_1": "Dustin Moskovitz",
+  "node_2": "Facebook",
+  "edge": "Dustin Moskovitz is a co-founder of Facebook."
+ },
+ {
+  "node_1": "Eduardo Saverin",
+  "node_2": "Facebook",
+  "edge": "Eduardo Saverin is a co-founder of Facebook."
+ },
+ {
+  "node_1": "Sheryl Sandberg",
+  "node_2": "Facebook",
+  "edge": "Sheryl Sandberg was COO of Facebook."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft, a leading tech company."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "IBM",
+  "edge": "Bill Gates partnered with IBM to develop and market the first Windows operating system."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Phase6 Foundation",
+  "edge": "Bill Gates founded the Bill & Melinda Gates Foundation to address global health and development issues."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Jeff Bezos",
+  "edge": "Bill Gates and Jeff Bezos have been involved in various business ventures and investments together."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Donald Trump",
+  "edge": "Bill Gates had a tense relationship with former US President Donald Trump regarding Trump's policies."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "COVID-19 vaccines",
+  "edge": "Bill Gates played a significant role in the development and distribution of COVID-19 vaccines during the pandemic."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Philanthropy",
+  "edge": "Bill Gates is known for his extensive philanthropy, focusing on healthcare and global development."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft and revolutionized the personal computer industry."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Bill Melinda Gates Foundation",
+  "edge": "Bill Gates co-founded the Bill Melinda Gates Foundation to focus on philanthropy."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "TerraPower",
+  "edge": "Bill Gates founded TerraPower to address climate change through innovative technology."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Breakthrough Energy",
+  "edge": "Bill Gates co-founded Breakthrough Energy to accelerate the development of clean energy solutions."
+ },
+ {
+  "node_1": "Paul Allen",
+  "node_2": "Microsoft",
+  "edge": "Paul Allen co-founded Microsoft with Bill Gates and revolutionized the personal computer industry."
+ },
+ {
+  "node_1": "Steve Ballmer",
+  "node_2": "Microsoft",
+  "edge": "Steve Ballmer succeeded Bill Gates as CEO of Microsoft in 2000."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella became CEO of Microsoft in 2014, succeeding Steve Ballmer."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Forbes billionaires list",
+  "edge": "Included in Forbes list of world's top billionaires since 1987."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Founded and led Microsoft for many years."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Charitable organizations",
+  "edge": "Established the Bill & Melinda Gates Foundation and donated significantly to various causes."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Companies",
+  "edge": "Founded or chaired multiple companies like BEN Cascade Investment, TerraPower, Gates Ventures, and Breakthrough Energy."
+ },
+ {
+  "node_1": "William Gates III",
+  "node_2": "Family background",
+  "edge": "Son of William H Gates Sr. and Mary Maxwell Gates."
+ },
+ {
+  "node_1": "William Gates III",
+  "node_2": "Education",
+  "edge": "Attended Lakeside prep school and developed an interest in programming."
+ },
+ {
+  "node_1": "Paul Allen",
+  "node_2": "Lakeside School",
+  "edge": "Seated next to Gates at Teletype Model 33 ASR terminals in Lakeside School."
+ },
+ {
+  "node_1": "General Electric",
+  "node_2": "Lakeside School",
+  "edge": "Provided computer time to students at Lakeside School."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Programming",
+  "edge": " Wrote his first computer program on a GE computer."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Gates founded Microsoft to develop software solutions."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "DEC PDP minicomputers",
+  "edge": "Gates used DEC PDP minicomputers for programming."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Computer Center Corporation",
+  "edge": "Gates collaborated with CCC to exploit bugs for computer time."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Lakeside Programmers Club",
+  "edge": "Gates co-founded the Lakeside Programmers Club to earn computer time."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Paul Allen",
+  "edge": "Gates partnered with Paul Allen to create various ventures."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "TrafOData",
+  "edge": "Gates founded TrafOData to develop traffic counters."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Harvard College",
+  "edge": "Gates attended Harvard College and studied computer science."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Steve Ballmer",
+  "edge": "Gates met Steve Ballmer at Harvard and they collaborated at Microsoft."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Paul Allen",
+  "edge": "Gates remained in contact with Paul Allen after their collaboration at Honeywell."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "MITS Altair 8800",
+  "edge": "Gates recognized the potential of the Altair 8800 to start a new venture."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Gates founded Microsoft to develop and distribute Altair BASIC."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Altair 8800",
+  "edge": "Gates was influenced by the Altair 8800 and its BASIC interpreter."
+ },
+ {
+  "node_1": "Steve Allen",
+  "node_2": "Microsoft",
+  "edge": "Gates and Allen formed a partnership called MicroSoft and later became Microsoft."
+ },
+ {
+  "node_1": "Ed Roberts",
+  "node_2": "MITS",
+  "edge": "Roberts agreed to meet with Gates to demonstrate their BASIC interpreter."
+ },
+ {
+  "node_1": "Gates",
+  "node_2": "MITS",
+  "edge": "Gates took a leave of absence from Harvard to work with MITS."
+ },
+ {
+  "node_1": "Microsoft",
+  "node_2": "Altair BASIC",
+  "edge": "Microsoft developed and distributed the Altair BASIC interpreter."
+ },
+ {
+  "node_1": "Gates",
+  "node_2": "Computer hobbyists",
+  "edge": "Gates expressed concern about unauthorized distribution of the Altair BASIC."
+ },
+ {
+  "node_1": "Microsoft",
+  "node_2": "MITS",
+  "edge": "Microsoft became independent of MITS in 1976."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Company growth",
+  "edge": "Gates transitioned from coding to management and executive roles as Microsoft grew."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates founded Microsoft and revolutionized the software industry."
+ },
+ {
+  "node_1": "IBM",
+  "node_2": "Microsoft",
+  "edge": "IBM approached Microsoft to develop an operating system for their upcoming personal computer."
+ },
+ {
+  "node_1": "Tim Paterson",
+  "node_2": "Microsoft",
+  "edge": "Tim Paterson developed the operating system 86DOS, which became the basis for PC DOS."
+ },
+ {
+  "node_1": "Paul Allen",
+  "node_2": "Microsoft",
+  "edge": "Paul Allen was co-founder of Microsoft and served as vice president and vice chairman."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Allen",
+  "edge": "Bill Gates and Paul Allen had a contentious dispute over Microsoft equity."
+ },
+ {
+  "node_1": "Microsoft",
+  "node_2": "Operating System",
+  "edge": "Microsoft's development of an operating system transformed the personal computer industry."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Gates founded Microsoft, a technology company revolutionizing the industry."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Cascade Investment LLC",
+  "edge": "Gates founded and controls Cascade Investment, an investment company with diverse holdings."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "EarthNow",
+  "edge": "Gates is a major funder of EarthNow, focused on live satellite video coverage."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "TerraPower",
+  "edge": "Gates co-founded TerraPower to develop advanced nuclear reactors."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Breakthrough Energy Ventures",
+  "edge": "Gates founded Breakthrough Energy Ventures to invest in climate-focused startups."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Ginkgo Bioworks",
+  "edge": "Gates invested in Ginkgo Bioworks, a biotechnology company developing innovative solutions."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Luminous Computing",
+  "edge": "Gates invested in Luminous Computing, specializing in AI acceleration."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Mologic",
+  "edge": "Gates supported Mologic in developing rapid COVID-19 testing technology."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Climate Change",
+  "edge": "Gates considers climate change to be a critical issue and has advocated for investments in renewable energy."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Energy",
+  "edge": "Gates envisions a rapid transition from fossil fuels to sustainable energy sources."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Mission Innovation",
+  "edge": "Gates spearheaded the initiative to double government spending on carbon-free energy research."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Breakthrough Energy",
+  "edge": "Gates established a group of investors to fund high-risk startups in clean energy technologies."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "US Federal Government",
+  "edge": "Gates called for the creation of institutes for clean energy research similar to the National Institutes of Health."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Signature Aviation",
+  "edge": "Gates has been criticized for holding a stake in a company servicing private jets."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Fossil Fuels",
+  "edge": "Gates began divesting from fossil fuels and expressed concerns about their environmental impact."
+ },
+ {
+  "node_1": "David Rockefeller",
+  "node_2": "Rockefeller Foundation",
+  "edge": "David Rockefeller founded the Rockefeller Foundation to address global challenges."
+ },
+ {
+  "node_1": "David Rockefeller",
+  "node_2": "Los Angeles Times",
+  "edge": "Los Angeles Times criticized the Rockefeller Foundation for its investments in controversial companies."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Singapore FinTech Festival",
+  "edge": "Bill Gates delivered a fireside chat at the Singapore FinTech Festival on resilience and financial inclusion."
+ },
+ {
+  "node_1": "Melinda Gates",
+  "node_2": "Salwen family",
+  "edge": "Melinda Gates suggests people follow the Salwen family's example by selling a home and donating half its value."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "US Colleges and Universities",
+  "edge": "Offered free ebooks to new graduates in 2018 and 2021."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "OpenStax",
+  "edge": "Partially funds the creation and distribution of free digital textbooks."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Roger Federer",
+  "edge": "Partnered to play in the Match for Africa charity tennis match in 2017 and 2018."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Jack Sock",
+  "edge": "Opponents in the 2018 Match for Africa event."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Savannah Guthrie",
+  "edge": "Opponents in the 2018 Match for Africa event."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Authored four books in collaboration with Microsoft executives and journalists."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft, which became a leading tech company."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Melinda French",
+  "edge": "Bill Gates married Melinda French in 1994 after dating for six years."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Bill & Melinda Gates Foundation",
+  "edge": "Bill Gates founded the Bill & Melinda Gates Foundation to focus on philanthropy."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Jeffrey Epstein",
+  "edge": "Melinda Gates was concerned about Bill Gates's ties to Jeffrey Epstein, which contributed to their divorce."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Paula Hurd",
+  "edge": "Bill Gates is currently dating Paula Hurd, widow of former Oracle and HewlettPackard CEO Mark Hurd."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Philanthropy",
+  "edge": "Bill Gates has spent over 50 billion on philanthropy, focusing on health, poverty, and education."
+ },
+ {
+  "node_1": "Jennifer Gates",
+  "node_2": "Nayel Nassar",
+  "edge": "Jennifer Gates married Olympic equestrian Nayel Nassar in 2021."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Grandchild",
+  "edge": "Bill Gates became a grandfather in 2023 when his eldest daughter Jennifer gave birth to a daughter."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "SpaceX",
+  "edge": "Bill Gates does not have any known relationships with SpaceX."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Apple Inc.",
+  "edge": "Bill Gates does not have any known relationships with Apple Inc."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Sheryl Sandberg",
+  "edge": "Bill Gates has worked closely with Sheryl Sandberg at Facebook."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Blue Origin",
+  "edge": "Bill Gates founded Blue Origin."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Media Coverage",
+  "edge": "Bill Gates is accused of influencing media coverage through his foundation."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Conspiracy Theories",
+  "edge": "Bill Gates has been targeted by numerous conspiracy theories involving vaccines and microchips."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Religious Beliefs",
+  "edge": "Bill Gates views reducing inequality as a religious belief."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Forbes",
+  "edge": "Gates was listed as a billionaire in Forbes' first ever Americas richest issue."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Gates founded Microsoft, a leading tech company."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Forbes 400",
+  "edge": "Gates was ranked first on the Forbes 400 list of wealthiest Americans multiple times."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Charitable foundations",
+  "edge": "Gates made multibillion dollar donations to his charitable foundations."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Jeff Bezos",
+  "edge": "Gates was surpassed by Jeff Bezos as the richest person in the world in 2017."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft shareholders",
+  "edge": "Gates' wealth increased significantly during his tenure as CEO of Microsoft."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Corbis",
+  "edge": "Gates founded Corbis in 1989."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Berkshire Hathaway",
+  "edge": "Gates became a board member of Berkshire Hathaway in 2004."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates founded Microsoft and revolutionized the technology industry."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "David Boies",
+  "edge": "Bill Gates had a contentious deposition with attorney David Boies over the meaning of certain words."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Presiding Judge",
+  "edge": "The presiding judge found that Microsoft violated antitrust laws."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Paul Allen",
+  "edge": "Bill Gates conspired with Paul Allen to reduce his (Allen's) share in Microsoft."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft Employees",
+  "edge": "Gates was accused of verbally abusing Microsoft employees."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Borland",
+  "edge": "Gates criticized Borland's products and allegedly berated a programming director over their performance."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Japan",
+  "edge": "Received the Grand Cordon of the Order of the Rising Sun for contributions to Japan"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Technology",
+  "edge": "Known for technological transformation and advancements in global health"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "YouTube",
+  "edge": "Nominated for the Streamy Awards for his personal channel"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Pakistan",
+  "edge": "Received the HilalePakistan for social work"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Documentary Films",
+  "edge": "Appears in several documentaries, including 'The Machine That Changed The World'"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Steve Jobs",
+  "edge": "Appeared together at D All Things Digital and discussed their rivalry in a parody game show"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "TED Talks",
+  "edge": "Given numerous TED talks on innovation and healthcare"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "BBC Radio 4",
+  "edge": "Guest on Desert Island Discs program discussing his relationships and habits"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Frasier",
+  "edge": "Made a brief appearance as himself in an episode"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Big Bang Theory",
+  "edge": "Made a guest appearance as himself on the TV show"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Silicon Valley",
+  "edge": "Made a cameo appearance in the series finale"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "The Simpsons",
+  "edge": "Parodied in an episode of The Simpsons"
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates founded Microsoft to revolutionize personal computing."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Philanthropy",
+  "edge": "Bill Gates is a renowned philanthropist, focusing on healthcare and education."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Mary Gates",
+  "edge": "Bill Gates's mother, Mary Gates, helped him start Microsoft."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Inspiration",
+  "edge": "Bill Gates is known as one of the greatest entrepreneurs and inspiration for many."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Innovation",
+  "edge": "Bill Gates revolutionized industries through his innovative products and vision."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Harvard University",
+  "edge": "Bill Gates dropped out of Harvard University to focus on founding Microsoft."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft to revolutionize the computer industry."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Innovation",
+  "edge": "Bill Gates revolutionized industries through his innovative products and technologies."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Collaboration",
+  "edge": "Bill Gates collaborated with notable figures like Paul Allen in shaping Microsoft's success."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Philanthropy",
+  "edge": "Bill Gates is known for his extensive philanthropic endeavors."
+ },
+ {
+  "node_1": "Saudi Crown Prince",
+  "node_2": "Bill Gates",
+  "edge": "Reviewing joint development projects."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Leaves the board amidst investigation of prior relationship with staffer."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Cascade Investment",
+  "edge": "Investment firm founded by Bill and Melinda Gates."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Farmland",
+  "edge": "Largest private owner of farmland in the United States."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "CO2 Capture",
+  "edge": "Investing in technologies to remove carbon dioxide from the air."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Climate change solutions",
+  "edge": "Bill Gates invests in startups and organizations to address climate change."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Space exploration",
+  "edge": "Bill Gates supports ventures focused on space exploration through organizations like SpaceX."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Technology investments",
+  "edge": "Bill Gates invests in various technologies, including nuclear power and food tech."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Ecolab",
+  "edge": "Bill Gates is an investor in Ecolab, a company involved in water, sanitation, and hygiene solutions."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "ResearchGate",
+  "edge": "Bill Gates contributed funding to ResearchGate, a platform for researchers to share their work."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "TerraPower",
+  "edge": "Bill Gates co-founded TerraPower, a company developing next-generation nuclear power technology."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Solar and wind power",
+  "edge": "Bill Gates advocates for investing in renewable energy sources like solar and wind."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Climate activism",
+  "edge": "Bill Gates supports campaigns and initiatives to raise awareness about climate change."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates founded Microsoft to revolutionize the technology industry."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Ginkgo Bioworks",
+  "edge": "Bill Gates invested in Ginkgo Bioworks, a biotech startup."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Blackstone",
+  "edge": "Bill Gates joined Blackstone in a bid to buy a private jet services firm."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "UK Covid testing company",
+  "edge": "Bill Gates invested in a UK Covid testing company with George Soros."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Renewable energy",
+  "edge": "Bill Gates increased his investment in renewable energy projects."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "National Institutes of Energy Innovation",
+  "edge": "Bill Gates proposed the creation of the National Institutes of Energy Innovation."
+ },
+ {
+  "node_1": "George Soros",
+  "node_2": "UK Covid testing company",
+  "edge": "George Soros invested in a UK Covid testing company with Bill Gates."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Sheryl Sandberg",
+  "edge": "Sheryl Sandberg worked closely with Mark Zuckerberg at Facebook."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Human faeces",
+  "edge": "Bill Gates drinks water distilled from human faeces."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "GatesNotes",
+  "edge": "Bill Gates founded GatesNotes to share his insights on innovation and leadership."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Jimmy Fallon",
+  "edge": "Bill Gates appeared on The Tonight Show Starring Jimmy Fallon to discuss his book."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Alzheimer's",
+  "edge": "Bill Gates makes a personal investment to fight Alzheimer's disease."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Thalapathy Vijaya",
+  "edge": "Bill Gates follows Thalapathy Vijaya's unique approach to help Kerala flood victims."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Future leaders",
+  "edge": "Bill Gates gives away 4 million copies of his book to future leaders."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "College graduates",
+  "edge": "Bill Gates gives away free digital copies of his book to all college graduates."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Federer Foundation",
+  "edge": "Bill Gates and Roger Federer play tennis for charity."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft Corporation",
+  "edge": "Bill Gates co-founded Microsoft Corporation, a leading technology company."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "SpaceX",
+  "edge": "Bill Gates has not been associated with SpaceX."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Entrepreneurship",
+  "edge": "Bill Gates is known for his innovative and entrepreneurial mindset."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Philanthropy",
+  "edge": "Bill Gates is actively involved in philanthropy through the Bill & Melinda Gates Foundation."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Family",
+  "edge": "Bill Gates has three children and was married to Melinda French Gates for 27 years."
+ },
+ {
+  "node_1": "Melinda French Gates",
+  "node_2": "Bill Gates",
+  "edge": "Melinda French Gates was married to Bill Gates for 27 years."
+ },
+ {
+  "node_1": "Microsoft Corporation",
+  "node_2": "Innovation",
+  "edge": "Microsoft Corporation has revolutionized the technology industry through innovation."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Leadership",
+  "edge": "Bill Gates has been a visionary leader in the technology industry."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Amazon",
+  "edge": "Jeff Bezos founded Amazon, a leading e-commerce giant."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft, a technology company known for its software products."
+ },
+ {
+  "node_1": "Carlos Slim",
+  "node_2": "Telecom Italia",
+  "edge": "Carlos Slim is a major shareholder in Telecom Italia, an Italian telecommunications operator."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Inc.",
+  "edge": "Steve Jobs co-founded Apple Inc., a multinational corporation known for its consumer electronics products."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg founded Facebook, a social media platform with billions of users."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft to revolutionize the computer industry."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "GatesNotes",
+  "edge": "Bill Gates founded GatesNotes to share his learnings and inspire future generations."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Tsinghua University",
+  "edge": "Bill Gates was awarded an honorary doctorate from Tsinghua University."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Cambridge University",
+  "edge": "Bill Gates received an honorary degree from Cambridge University."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Northern Arizona University",
+  "edge": "Bill Gates was recognized with an honorary doctorate from Northern Arizona University."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "China",
+  "edge": "Bill Gates discussed piracy and its impact on the entertainment industry in China."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Generation I",
+  "edge": "Bill Gates shared his insights and challenges faced by Generation I."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "National Academy of Engineering",
+  "edge": "Bill Gates was elected a member of the National Academy of Engineering."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Inc.",
+  "edge": "Steve Jobs co-founded Apple Inc., a leading tech company."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft, a technology giant."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "BMUG",
+  "edge": "Bill Gates attended a BMUG meeting in 1991."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "The Social Network",
+  "edge": "Steve Jobs was featured in the film 'The Social Network'."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "TED Talks",
+  "edge": "Bill Gates frequently gives TED Talks."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "BBC Radio 4",
+  "edge": "Bill Gates was a guest on BBC Radio 4's Desert Island Discs."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "The Big Bang Theory",
+  "edge": "Bill Gates made a cameo appearance on the TV show 'The Big Bang Theory'."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Silicon Valley",
+  "edge": "Bill Gates appeared in the Silicon Valley series finale."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "AI",
+  "edge": "Bill Gates discusses the potential impact of AI in an interview."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft and revolutionized the computer industry."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Innovation",
+  "edge": "Bill Gates is known for his innovative approaches to technology and business."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Philanthropy",
+  "edge": "Bill Gates is a major philanthropist through the Bill & Melinda Gates Foundation."
+ },
+ {
+  "node_1": "Paul Allen",
+  "node_2": "Microsoft",
+  "edge": "Paul Allen co-founded Microsoft with Bill Gates."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella is the current CEO of Microsoft, leading its transformation."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Inc.",
+  "edge": "Steve Jobs co-founded Apple Inc. and revolutionized the tech industry."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft and revolutionized the computer industry."
+ },
+ {
+  "node_1": "Steve Ballmer",
+  "node_2": "Microsoft",
+  "edge": "Steve Ballmer became CEO of Microsoft and oversaw its continued growth."
+ },
+ {
+  "node_1": "Warren Buffett",
+  "node_2": "Berkshire Hathaway",
+  "edge": "Warren Buffett became CEO of Berkshire Hathaway and became one of the richest people in the world."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Amazon",
+  "edge": "Jeff Bezos founded Amazon and transformed e-commerce."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to explore space."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg founded Facebook and created a social media empire."
+ },
+ {
+  "node_1": "John F Kennedy",
+  "node_2": "1960",
+  "edge": "John F Kennedy was elected President of the United States in 1960."
+ },
+ {
+  "node_1": "Martin Luther King Jr",
+  "node_2": "1963",
+  "edge": "Martin Luther King Jr delivered his 'I Have a Dream' speech in 1963."
+ },
+ {
+  "node_1": "Richard Nixon",
+  "node_2": "1970",
+  "edge": "Richard Nixon became President of the United States in 1970."
+ },
+ {
+  "node_1": "Ronald Reagan",
+  "node_2": "1980",
+  "edge": "Ronald Reagan was elected President of the United States in 1980."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "1998",
+  "edge": "Jeff Bezos founded Amazon in 1998."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "2009",
+  "edge": "Mark Zuckerberg founded Facebook in 2009."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "2020",
+  "edge": "Elon Musk became the owner of Twitter in 2022."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Wikipedia",
+  "edge": "Bill Gates is mentioned in various articles on Wikipedia."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft and played a key role in its success."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Philanthropy",
+  "edge": "Bill Gates is known for his extensive philanthropic work through organizations like the Bill & Melinda Gates Foundation."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Innovation",
+  "edge": "Bill Gates has been recognized as a pioneer in computer programming and technology innovation."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Businessperson",
+  "edge": "Bill Gates is one of the most successful entrepreneurs and businesspeople in history."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Inc.",
+  "edge": "Steve Jobs co-founded Apple Inc., a leading tech company."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "NeXT Computer",
+  "edge": "Steve Jobs co-founded NeXT Computer, a precursor to Apple."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Pixar",
+  "edge": "Steve Jobs co-founded Pixar, a visual effects and animation company."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Personal computer revolution",
+  "edge": "Steve Jobs is known as a pioneer of the personal computer revolution."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Silicon Valley",
+  "edge": "Steve Jobs played a pivotal role in the rise of Silicon Valley."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "iPhone",
+  "edge": "Steve Jobs introduced the iPhone, a transformative mobile phone."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Store",
+  "edge": "Steve Jobs established the first Apple Stores, retail outlets for Apple products."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Inc.",
+  "edge": "Steve Jobs co-founded Apple Inc."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "NeXT",
+  "edge": "Steve Jobs founded NeXT, a computer platform development company."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Pixar",
+  "edge": "Steve Jobs founded Pixar, a computer graphics division of Lucasfilm."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "John Sculley",
+  "edge": "Steve Jobs had a power struggle with John Sculley, the then CEO of Apple."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Jony Ive",
+  "edge": "Steve Jobs worked closely with Jony Ive to develop new products and services for Apple."
+ },
+ {
+  "node_1": "Steven Jobs",
+  "node_2": "Joanne Carole Schieble",
+  "edge": "Joanne Carole Schieble was Steve Jobs' biological mother."
+ },
+ {
+  "node_1": "Steven Jobs",
+  "node_2": "Abdulfattah Jandali",
+  "edge": "Abdulfattah Jandali was Steve Jobs' biological father."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Paul Reinhold",
+  "edge": "Paul Reinhold adopted Steve Jobs after his biological parents were unable to care for him."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Clara Hagopian",
+  "edge": "Clara Hagopian adopted Steve Jobs with Paul Reinhold."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "American University of Beirut",
+  "edge": "Steve Jobs attended the American University of Beirut."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "University of Wisconsin",
+  "edge": "Steve Jobs pursued a PhD in political science at the University of Wisconsin."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Clara Hagopian",
+  "edge": "Steve Jobs and Clara Hagopian were engaged and later married."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Chrisann Brennan",
+  "edge": "Steve Jobs and Chrisann Brennan were aware of each other's feelings during his youth."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Loopt",
+  "edge": "Sam Altman founded Loopt, a location-based social networking mobile application."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Y Combinator",
+  "edge": "Sam Altman joined Y Combinator, a startup accelerator, and became its president from 2014 to 2019."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "OpenAI",
+  "edge": "Sam Altman became the CEO of OpenAI in 2019, and was briefly fired and reinstated in November 2023."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Oklo Inc",
+  "edge": "Sam Altman is the Chairman of Oklo Inc, a clean energy company."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Helion Energy",
+  "edge": "Sam Altman is the Chairman of Helion Energy, another clean energy company."
+ },
+ {
+  "node_1": "Asher Altman",
+  "node_2": "Y Combinator",
+  "edge": "Altman cofounded Y Combinator and became president, focusing on funding startups and expanding its reach."
+ },
+ {
+  "node_1": "Asher Altman",
+  "node_2": "Green Dot Corporation",
+  "edge": "Altman's company Loop was acquired by Green Dot Corporation in 2012."
+ },
+ {
+  "node_1": "Asher Altman",
+  "node_2": "Hydrazine Capital",
+  "edge": "Altman founded Hydrazine Capital with his brother to invest in early-stage tech startups."
+ },
+ {
+  "node_1": "Asher Altman",
+  "node_2": "Elon Musk",
+  "edge": "Altman cofounded OpenAI alongside Elon Musk to promote and develop AI for humanity."
+ },
+ {
+  "node_1": "Asher Altman",
+  "node_2": "Tools For Humanity",
+  "edge": "Altman founded Tools For Humanity to use eye scanning for authentication and provide a form of universal basic income."
+ },
+ {
+  "node_1": "Asher Altman",
+  "node_2": "Worldcoin",
+  "edge": "Altman created the cryptocurrency Worldcoin as part of Tools For Humanity."
+ },
+ {
+  "node_1": "Rishi Sunak",
+  "node_2": "Demis Hassabis",
+  "edge": "Rishi Sunak met with Demis Hassabis, CEO of DeepMind."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "OpenAI",
+  "edge": "Elon Musk was an initial investor in OpenAI."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "OpenAI",
+  "edge": "Sam Altman was the CEO of OpenAI from 2015 to 2019."
+ },
+ {
+  "node_1": "Microsoft",
+  "node_2": "OpenAI",
+  "edge": "Microsoft invested in OpenAI in 2015."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "United States Senate Judiciary Subcommittee",
+  "edge": "Sam Altman testified before the United States Senate Judiciary Subcommittee on Privacy Technology and the Law in 2023."
+ },
+ {
+  "node_1": "OpenAI",
+  "node_2": "European Commission president Ursula von der Leyen",
+  "edge": "OpenAI president Ursula von der Leyen was photographed with OpenAI representatives."
+ },
+ {
+  "node_1": "Ilya Sutskever",
+  "node_2": "OpenAI",
+  "edge": "Ilya Sutskever advocated for removing Sam Altman as CEO, but later apologized."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "OpenAI",
+  "edge": "Altman rejoined OpenAI's board of directors in 2024."
+ },
+ {
+  "node_1": " Altman",
+  "node_2": "WilmerHale",
+  "edge": "OpenAI reviewed Altman's board membership with law firm WilmerHale in 2024."
+ },
+ {
+  "node_1": "Altman",
+  "node_2": "Reddit",
+  "edge": "Altman was CEO of Reddit from 2014 to 2015."
+ },
+ {
+  "node_1": "Altman",
+  "node_2": "Project Covalence",
+  "edge": "Altman funded and created Project Covalence during the COVID-19 pandemic."
+ },
+ {
+  "node_1": "Altman",
+  "node_2": "Silicon Valley Bank",
+  "edge": "Altman provided capital to multiple startups during the depositor run on Silicon Valley Bank in 2023."
+ },
+ {
+  "node_1": "Altman",
+  "node_2": "Airbnb",
+  "edge": "Altman invested in Airbnb."
+ },
+ {
+  "node_1": "Altman",
+  "node_2": "Stripe",
+  "edge": "Altman invested in Stripe."
+ },
+ {
+  "node_1": "Altman",
+  "node_2": "Retro Biosciences",
+  "edge": "Altman invested in Retro Biosciences."
+ },
+ {
+  "node_1": "Altman",
+  "node_2": "Helion Energy",
+  "edge": "Altman is chairman of the board for Helion Energy."
+ },
+ {
+  "node_1": "Altman",
+  "node_2": "Oklo Inc",
+  "edge": "Altman is chairman of the board for Oklo Inc."
+ },
+ {
+  "node_1": "Altman",
+  "node_2": "AltC Acquisition Corp",
+  "edge": "Altman founded AltC Acquisition Corp in 2021."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "OpenAI",
+  "edge": "Sam Altman co-founded OpenAI, an AI research company."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Elon Musk",
+  "edge": "Sam Altman collaborated with Elon Musk in founding OpenAI."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Velocity",
+  "edge": "Sam Altman supported Velocity, a University of Waterloo entrepreneurship program."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Government of Indonesia",
+  "edge": "The government of Indonesia issued Sam Altman a golden visa."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Xfund",
+  "edge": "Sam Altman received the Annual Experiment Cup from Xfund."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Time",
+  "edge": "Sam Altman was listed as one of Time's 100 most influential people in 2023 and 2024."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Businessweek",
+  "edge": "Sam Altman was recognized as one of the Best Young Entrepreneurs in Technology by Businessweek in 2008."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Forbes",
+  "edge": "Sam Altman was named the top investor under 30 by Forbes in 2015."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Y Combinator",
+  "edge": "Sam Altman founded Y Combinator, a renowned startup accelerator."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "OpenAI",
+  "edge": "Elon Musk and Sam Altman founded OpenAI, a non-profit AI research company."
+ },
+ {
+  "node_1": "Y Combinator",
+  "node_2": "Startups",
+  "edge": "Y Combinator has funded numerous startups, supporting their growth and development."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Investors",
+  "edge": "Sam Altman has attracted investors to Y Combinator, securing funding for startups."
+ },
+ {
+  "node_1": "Y Combinator",
+  "node_2": "Entrepreneurs",
+  "edge": "Y Combinator has empowered entrepreneurs by providing them with mentorship, resources, and connections."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Artificial Intelligence",
+  "edge": "Sam Altman has been instrumental in advancing the field of artificial intelligence through OpenAI."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Microsoft",
+  "edge": "Sam Altman is rejoining Microsoft as a leader."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "OpenAI",
+  "edge": "Sam Altman returned as CEO of OpenAI."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Employees",
+  "edge": "Hundreds of OpenAI employees threatened to resign in solidarity with Sam Altman."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Reddit",
+  "edge": "Sam Altman was a founding member of Reddit."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Company Investments",
+  "edge": "Sam Altman invested $180 million in a company focused on delaying death."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Fusion Technology",
+  "edge": "Sam Altman is among those investing heavily in fusion technology."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "OpenAI",
+  "edge": "Sam Altman cofounded OpenAI, a leading AI research company."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Microsoft",
+  "edge": "Microsoft briefly hired Sam Altman before his return to OpenAI."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Twitter",
+  "edge": "Sam Altman was involved in discussions about breaking up Twitter."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Tesla",
+  "edge": "Sam Altman is known for investing in Tesla."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "McLaren",
+  "edge": "Sam Altman is known for investing in McLaren."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Giving Pledge",
+  "edge": "Sam Altman plans to give away most of his wealth through the Giving Pledge."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Democratic SuperPAC",
+  "edge": "Sam Altman donated 250,000 to a Democratic SuperPAC in 2020."
+ },
+ {
+  "node_1": "Sam Altman",
+  "node_2": "Board of Directors",
+  "edge": "Sam Altman is a board member of the company."
+ },
+ {
+  "node_1": "Adam DAngelo",
+  "node_2": "Board of Directors",
+  "edge": "Adam DAngelo is a board member of the company."
+ },
+ {
+  "node_1": "Sue Desmond",
+  "node_2": "Board of Directors",
+  "edge": "Sue Desmond is a board member of the company."
+ },
+ {
+  "node_1": "Paul Nakasone",
+  "node_2": "Board of Directors",
+  "edge": "Paul Nakasone is a board member of the company."
+ },
+ {
+  "node_1": "Nicole Seligman",
+  "node_2": "Board of Directors",
+  "edge": "Nicole Seligman is a board member of the company."
+ },
+ {
+  "node_1": "Fidji Simo",
+  "node_2": "Board of Directors",
+  "edge": "Fidji Simo is a board member of the company."
+ },
+ {
+  "node_1": "Lawrence Summers",
+  "node_2": "Board of Directors",
+  "edge": "Lawrence Summers is a board member of the company."
+ },
+ {
+  "node_1": "Bret Taylor",
+  "node_2": "Board of Directors",
+  "edge": "Bret Taylor is a board member of the company."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Company Founder",
+  "edge": "Elon Musk founded the company in 2015."
+ },
+ {
+  "node_1": "Ilya Sutskever",
+  "node_2": "Advisor",
+  "edge": "Ilya Sutskever advises the company."
+ },
+ {
+  "node_1": "Helen Toner",
+  "node_2": "Advisor",
+  "edge": "Helen Toner advises the company."
+ },
+ {
+  "node_1": "Shivon Zilis",
+  "node_2": "Executive Advisor",
+  "edge": "Shivon Zilis serves as an executive advisor to the company."
+ },
+ {
+  "node_1": "Larry Ellison",
+  "node_2": "Oracle Corporation",
+  "edge": "Larry Ellison co-founded Oracle Corporation, a software company."
+ },
+ {
+  "node_1": "Larry Ellison",
+  "node_2": "CEO",
+  "edge": "Larry Ellison was the CEO of Oracle Corporation from 1977 to 2014."
+ },
+ {
+  "node_1": "Larry Ellison",
+  "node_2": "Executive Chairman",
+  "edge": "Larry Ellison is the Executive Chairman of Oracle Corporation."
+ },
+ {
+  "node_1": "Larry Ellison",
+  "node_2": "Software Company",
+  "edge": "Larry Ellison co-founded Oracle Corporation, a software company."
+ },
+ {
+  "node_1": "Larry Ellison",
+  "node_2": "Bloomberg Billionaires Index",
+  "edge": "As of November 13 2024, Larry Ellison is the third wealthiest person in the world according to Bloomberg Billionaires Index."
+ },
+ {
+  "node_1": "Larry Ellison",
+  "node_2": "Forbes",
+  "edge": "As of November 13 2024, Larry Ellison is the second wealthiest person in the world according to Forbes."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "IIT Kharagpur",
+  "edge": "Sundar Pichai attended IIT Kharagpur for his BTech degree."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Stanford University",
+  "edge": "Sundar Pichai pursued his MS degree at Stanford University."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Google",
+  "edge": "Sundar Pichai joined Google in 2004 and led product management efforts."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Chrome",
+  "edge": "Sundar Pichai played a key role in developing Google Chrome."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Gmail",
+  "edge": "Sundar Pichai was involved in developing Google Gmail."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Android",
+  "edge": "Sundar Pichai added Android to the list of Google products he oversaw."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Alphabet",
+  "edge": "Sundar Pichai became the CEO of Alphabet in 2015."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Google",
+  "edge": "Sundar Pichai co-founded Google and led product development efforts."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Applied Materials",
+  "edge": "Sundar Pichai worked in engineering and product management at Applied Materials."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "McKinsey Company",
+  "edge": "Sundar Pichai worked in management consulting at McKinsey Company."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Google Chrome",
+  "edge": "Sundar Pichai led product management and innovation efforts for Google Chrome."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Google Drive",
+  "edge": "Sundar Pichai was responsible for the development of Google Drive."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "WebM",
+  "edge": "Sundar Pichai introduced the WebM video format."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Android",
+  "edge": "Sundar Pichai took over management of Android from Andy Rubin."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Alphabet Inc.",
+  "edge": "Sundar Pichai became CEO of Alphabet Inc after it was formed."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Microsoft",
+  "edge": "Sundar Pichai was considered for the CEO position at Microsoft."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "China",
+  "edge": "Sundar Pichai has spoken about helping Chinese businesses expand globally."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "United States House Judiciary Committee",
+  "edge": "Sundar Pichai was questioned by the House Judiciary Committee regarding allegations of political bias at Google."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Google Inc.",
+  "edge": "Sundar Pichai co-founded Google Inc., a leading tech company."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Alphabet Inc.",
+  "edge": "Sundar Pichai became the CEO of Alphabet Inc in 2019."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Times",
+  "edge": "Sundar Pichai was included in Time's annual list of the 100 most influential people in 2016 and 2020."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Government of India",
+  "edge": "Sundar Pichai received the Padma Bhushan in 2022 from the Government of India."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Anjali Pichai",
+  "edge": "Sundar Pichai is married to Anjali Pichai."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Cricket",
+  "edge": "Sundar Pichai enjoys cricket as a recreational activity."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Google",
+  "edge": "Sundar Pichai became the CEO of Google in 2015."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Stanford University",
+  "edge": "Sundar Pichai studied at Stanford University."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Siebel Scholars",
+  "edge": "Sundar Pichai was a Siebel Scholar."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Android",
+  "edge": "Sundar Pichai became the CEO of Google's Android division."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Alphabet",
+  "edge": "Sundar Pichai is the CEO of Alphabet, the parent company of Google."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Andy Rubin",
+  "edge": "Sundar Pichai replaced Andy Rubin as the CEO of Google's Android division."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Margaret Breya",
+  "edge": "Sundar Pichai appointed Margaret Breya to the board of directors of Jive Software."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Google",
+  "edge": "Sundar Pichai is the CEO of Google."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Chrome",
+  "edge": "Sundar Pichai is responsible for the development of Google Chrome."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Privacy",
+  "edge": "Sundar Pichai has been grilled on Google's privacy practices."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "China",
+  "edge": "Sundar Pichai has made remarks about Google's stance on China."
+ },
+ {
+  "node_1": "Larry Page",
+  "node_2": "Sundar Pichai",
+  "edge": "Larry Page stepped down as CEO and Sundar Pichai took over."
+ },
+ {
+  "node_1": "Tim Cook",
+  "node_2": "Sundar Pichai",
+  "edge": "Tim Cook and Sundar Pichai were surprise guests at a Chinese internet conference."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "SpaceX",
+  "edge": "Elon Musk founded SpaceX to revolutionize space exploration."
+ },
+ {
+  "node_1": "Steve Jobs",
+  "node_2": "Apple Inc.",
+  "edge": "Steve Jobs co-founded Apple Inc., a leading tech company."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Sheryl Sandberg",
+  "edge": "Sheryl Sandberg worked closely with Mark Zuckerberg as COO of Facebook."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Blue Origin",
+  "edge": "Jeff Bezos founded Blue Origin to focus on space exploration."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Instagram",
+  "edge": "Mark Zuckerberg created Instagram, a social media platform."
+ },
+ {
+  "node_1": "Jack Dorsey",
+  "node_2": "Twitter",
+  "edge": "Jack Dorsey co-founded Twitter, a microblogging platform."
+ },
+ {
+  "node_1": "Bill Gates",
+  "node_2": "Microsoft",
+  "edge": "Bill Gates co-founded Microsoft, a software and technology company."
+ },
+ {
+  "node_1": "Richard Branson",
+  "node_2": "Virgin Group",
+  "edge": "Richard Branson founded Virgin Group, a conglomerate with diverse businesses."
+ },
+ {
+  "node_1": "Larry Page",
+  "node_2": "Sergey Brin",
+  "edge": "Larry Page and Sergey Brin founded Google (now Alphabet), a search engine and tech company."
+ },
+ {
+  "node_1": "Jack Ma",
+  "node_2": "Alibaba",
+  "edge": "Jack Ma founded Alibaba, an e-commerce and logistics company."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Google",
+  "edge": "Sundar Pichai founded Google, a leading search engine and technology company."
+ },
+ {
+  "node_1": "Jack Ma",
+  "node_2": "Alibaba",
+  "edge": "Jack Ma founded Alibaba, a major e-commerce platform."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Facebook",
+  "edge": "Mark Zuckerberg founded Facebook, a social networking platform."
+ },
+ {
+  "node_1": "Tim Cook",
+  "node_2": "Apple",
+  "edge": "Tim Cook succeeded Steve Jobs as CEO of Apple, a technology company."
+ },
+ {
+  "node_1": "Reed Hastings",
+  "node_2": "Netflix",
+  "edge": "Reed Hastings co-founded Netflix, a streaming service."
+ },
+ {
+  "node_1": "Elon Musk",
+  "node_2": "Tesla",
+  "edge": "Elon Musk founded Tesla, an electric vehicle manufacturer."
+ },
+ {
+  "node_1": "Jeff Bezos",
+  "node_2": "Amazon",
+  "edge": "Jeff Bezos founded Amazon, an e-commerce giant."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella became the CEO of Microsoft, a technology company."
+ },
+ {
+  "node_1": "Sundar Pichai",
+  "node_2": "Alphabet",
+  "edge": "Sundar Pichai is the CEO of Alphabet, the parent company of Google."
+ },
+ {
+  "node_1": "Mark Zuckerberg",
+  "node_2": "Meta",
+  "edge": "Mark Zuckerberg is the founder of Meta, which owns Facebook and other social platforms."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella became CEO of Microsoft in 2014."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Cloud and enterprise group",
+  "edge": "Satya Nadella led Microsoft's Cloud and Enterprise Group."
+ },
+ {
+  "node_1": "Steve Ballmer",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella succeeded Steve Ballmer as CEO of Microsoft in 2014."
+ },
+ {
+  "node_1": "John W Thompson",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella succeeded John W Thompson as chairman of Microsoft in 2021."
+ },
+ {
+  "node_1": "Prabhavati",
+  "node_2": "Sanskrit lecturer",
+  "edge": "Prabhavati was a Sanskrit lecturer and Satya Nadella's mother."
+ },
+ {
+  "node_1": "Bukkapuram Nadella Yugandhar",
+  "node_2": "Indian Administrative Service officer",
+  "edge": "Bukkapuram Nadella Yugandhar was an Indian Administrative Service officer of the 1962 batch."
+ },
+ {
+  "node_1": "Hyderabad Public School Begumpet",
+  "node_2": "Satya Nadella",
+  "edge": "Satya Nadella attended the Hyderabad Public School Begumpet."
+ },
+ {
+  "node_1": "Manipal Institute of Technology",
+  "node_2": "Satya Nadella",
+  "edge": "Satya Nadella received a bachelor's degree in electrical engineering from Manipal Institute of Technology."
+ },
+ {
+  "node_1": "University of Wisconsin Milwaukee",
+  "node_2": "Satya Nadella",
+  "edge": "Satya Nadella received his MS in computer science from the University of Wisconsin Milwaukee."
+ },
+ {
+  "node_1": "University of Chicago Booth",
+  "node_2": "Satya Nadella",
+  "edge": "Satya Nadella received an MBA from the University of Chicago Booth."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella was named CEO of Microsoft in 2014."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "PMO",
+  "edge": "Satya Nadella's father was a PMO official."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Andhra Pradesh",
+  "edge": "Satya Nadella is from Andhra Pradesh."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Innovation Centre",
+  "edge": "Satya Nadella okayed an innovation center in his native district."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella became CEO of Microsoft in 2014, leading its revival."
+ },
+ {
+  "node_1": "Nadella Yugandhar",
+  "node_2": "Satya Nadella",
+  "edge": "Satya Nadella's father, Nadella Yugandhar, passed away in 2019."
+ },
+ {
+  "node_1": "Buckkapuram village",
+  "node_2": "Satya Nadella",
+  "edge": "Satya Nadella's family migrated to Bukkapuram village in Anantapur district."
+ },
+ {
+  "node_1": "MIT",
+  "node_2": "Satya Nadella",
+  "edge": "MIT celebrated Satya Nadella's potential to become Microsoft's CEO in 2013."
+ },
+ {
+  "node_1": "Sachin Tendulkar",
+  "node_2": "Satya Nadella",
+  "edge": "Satya Nadella mentioned missing out on the Sachin Tendulkar era of Indian cricket."
+ },
+ {
+  "node_1": "UWM graduate",
+  "node_2": "Satya Nadella",
+  "edge": "Satya Nadella is rumored to be a potential UWM graduate."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Apple",
+  "edge": "By 2019, Satya Nadella's leadership had made Microsoft more valuable than Apple."
+ },
+ {
+  "node_1": "Microsoft CEO",
+  "node_2": "Satya Nadella",
+  "edge": "Satya Nadella became the CEO of Microsoft in 2014."
+ },
+ {
+  "node_1": "Forbes",
+  "node_2": "Satya Nadella",
+  "edge": "In 2016, Satya Nadella received $845 million in compensation."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Microsoft",
+  "edge": "Satya Nadella was named CEO of Microsoft in 2014."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Office for iPad",
+  "edge": "Satya Nadella publicly debuted Office for iPad in 2014."
+ },
+ {
+  "node_1": "Microsoft",
+  "node_2": "Dropbox",
+  "edge": "Microsoft partnered with Dropbox in 2014."
+ },
+ {
+  "node_1": "Microsoft",
+  "node_2": "Linux",
+  "edge": "Microsoft partnered with Linux in 2014 to enhance Azure."
+ },
+ {
+  "node_1": "Satya Nadella",
+  "node_2": "Culture",
+  "edge": "Satya Nadella aimed to transform Microsoft's culture in 2017."
+ },
+ {
+  "node_1": "Microsoft",
+  "node_2": "Xamarin",
+  "edge": "Microsoft acquired Xamarin in 2016."
+ },
+ {
+  "node_1": "Microsoft",
+  "node_2": "LinkedIn",
+  "edge": "Microsoft acquired LinkedIn in 2016 for 262 billion."
+ }
+]
